@@ -1,5 +1,5 @@
 def read_data():  # Funkcja do odczytu plików .tsv
-    with open('input\Słówka SPEAK UP - Arkusz1.tsv', 'r', encoding='UTF-8') as file:
+    with open('input\Słówka - Arkusz1.tsv', 'r', encoding='UTF-8') as file:
         words = file.read().splitlines()
     convertData = []
     for data in words[1:]:
