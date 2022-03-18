@@ -57,7 +57,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 56	angry	zły	BG1_U1_L2	Przymiotniki	1
 57	attractive	atrakcyjny	BG1_U1_L2	Przymiotniki	1
 58	comfortable	wygodny	BG1_U1_L2	Przymiotniki	1
-59	delicious	pyszny	BG1_U1_L2	Przymiotniki	1
+59	delicious	pyszny	BG1_U1_L2	Przymiotniki	 
 60	early	wczesny, wcześnie	BG1_U1_L2	Przymiotniki	0
 61	exciting	ekscytujący	BG1_U1_L2	Przymiotniki	0
 62	friendly	przyjacielski	BG1_U1_L2	Przymiotniki	0
@@ -136,7 +136,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 135	arrive late	spóźnić się	BG1_U1_L4	Słownictwo ogólne	0
 136	broken heart	złamane serce	BG1_U1_L4	Słownictwo ogólne	0
 137	busy	zajęty, zapracowany	BG1_U1_L4	Słownictwo ogólne	0
-138	catch the bus	złapać autobus	BG1_U1_L4	Słownictwo ogólne	0
+138	catch a bus	złapać autobus	BG1_U1_L4	Słownictwo ogólne	0
 139	classmate	kolega/koleżanka z klasy	BG1_U1_L4	Słownictwo ogólne	0
 140	colleague	kolega	BG1_U1_L4	Słownictwo ogólne	0
 141	customer	klient	BG1_U1_L4	Słownictwo ogólne	0
@@ -151,7 +151,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 150	print	drukować	BG1_U1_L4	Słownictwo ogólne	0
 151	printer	drukarka	BG1_U1_L4	Słownictwo ogólne	0
 152	repair	naprawić, naprawa	BG1_U1_L4	Słownictwo ogólne	0
-153	shout at	krzyczeć na kogoś	BG1_U1_L4	Słownictwo ogólne	0
+153	shout at somebody	krzyczeć na kogoś	BG1_U1_L4	Słownictwo ogólne	0
 154	souvenir	sklep z pamiątkami	BG1_U1_L4	Słownictwo ogólne	0
 155	teenager	nastolatek	BG1_U1_L4	Słownictwo ogólne	0
 156	ticket	bilet	BG1_U1_L4	Słownictwo ogólne	0
@@ -168,8 +168,8 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 167	three times	trzy razy	BG1_U1_L4	Przysłówki częstotliwości	0
 168	twice	dwa razy	BG1_U1_L4	Przysłówki częstotliwości	0
 169	usually	zazwyczaj	BG1_U1_L4	Przysłówki częstotliwości	0
-170	mother, mum	matka, mama	BG1_U2_L1	Rodzina	0
-171	father, dad	ojciec, tata	BG1_U2_L1	Rodzina	0
+170	mum	matka, mama	BG1_U2_L1	Rodzina	0
+171	dad	ojciec, tata	BG1_U2_L1	Rodzina	0
 172	sister	siostra	BG1_U2_L1	Rodzina	0
 173	brother	brat	BG1_U2_L1	Rodzina	0
 174	wife	żona	BG1_U2_L1	Rodzina	0
@@ -177,11 +177,11 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 176	parents	rodzice	BG1_U2_L1	Rodzina	0
 177	daughter	córka	BG1_U2_L1	Rodzina	0
 178	son	syn	BG1_U2_L1	Rodzina	0
-179	child, children	dziecko, dzieci	BG1_U2_L1	Rodzina	0
-180	grandmother, grandma	babcia, babunia	BG1_U2_L1	Rodzina	0
-181	grandfather, grandpa	dziadek, dziadziuś	BG1_U2_L1	Rodzina	0
+179	children	dzieci	BG1_U2_L1	Rodzina	0
+180	grandma	babcia	BG1_U2_L1	Rodzina	0
+181	grandpa	dziadek	BG1_U2_L1	Rodzina	0
 182	grandparents	dziadkowie	BG1_U2_L1	Rodzina	0
-183	grandchild, grandchildren	wnuczek, wnuczki	BG1_U2_L1	Rodzina	0
+183	grandchild	wnuczek	BG1_U2_L1	Rodzina	0
 184	granddaughter	wnuczka	BG1_U2_L1	Rodzina	0
 185	grandson	wnuczek	BG1_U2_L1	Rodzina	0
 186	cousin	kuzyn, kuzynka	BG1_U2_L1	Rodzina	0
@@ -191,9 +191,9 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 190	niece	siostrzenica, bratanica	BG1_U2_L1	Rodzina	0
 191	family	rodzina	BG1_U2_L1	Rodzina	0
 192	relatives	krewni	BG1_U2_L1	Rodzina	0
-193	attend school	uczęszczac do szkoły	BG1_U2_L1	Słownictwo ogólne	0
+193	attend school	uczęszczać do szkoły	BG1_U2_L1	Słownictwo ogólne	0
 194	together	razem	BG1_U2_L1	Słownictwo ogólne	0
-195	married	zamężna, zonaty, po ślubie	BG1_U2_L1	Słownictwo ogólne	0
+195	married	zamężna, żonaty, po ślubie	BG1_U2_L1	Słownictwo ogólne	0
 196	cute	słodki, śliczny	BG1_U2_L1	Słownictwo ogólne	0
 197	relation	relacja	BG1_U2_L1	Słownictwo ogólne	0
 198	at the weekend	w weekend	BG1_U2_L1	Słownictwo ogólne	0
@@ -210,7 +210,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 209	who	kto	BG1_U2_L1	Słownictwo ogólne	0
 210	memory	pamięć	BG1_U2_L1	Słownictwo ogólne	0
 211	dining room	jadalnia	BG1_U2_L2	Pokoje i meble	0
-212	living room	pokój dzienny, duzy pokój	BG1_U2_L2	Pokoje i meble	0
+212	living room	pokój dzienny, duży pokój	BG1_U2_L2	Pokoje i meble	0
 213	bathroom	łazienka	BG1_U2_L2	Pokoje i meble	0
 214	bedroom	sypialnia	BG1_U2_L2	Pokoje i meble	0
 215	kitchen	kuchnia	BG1_U2_L2	Pokoje i meble	0
@@ -235,7 +235,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 234	wardrobe	szafa	BG1_U2_L2	Pokoje i meble	0
 235	bedside table	stolik, szafka nocna	BG1_U2_L2	Pokoje i meble	0
 236	lamp	lampa	BG1_U2_L2	Pokoje i meble	0
-237	cupboards	szafki kuchenne	BG1_U2_L2	Pokoje i meble	0
+237	cupboard	szafka kuchenna	BG1_U2_L2	Pokoje i meble	0
 238	cooker	kuchenka	BG1_U2_L2	Pokoje i meble	0
 239	microwave	mikrofalówka	BG1_U2_L2	Pokoje i meble	0
 240	oven	piekarnik	BG1_U2_L2	Pokoje i meble	0
@@ -255,7 +255,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 254	equipment	sprzęt	BG1_U2_L2	Słownictwo ogólne	0
 255	wall	ściana	BG1_U2_L3	Słownictwo ogólne	0
 256	ornament	dekoracja; ozdoba	BG1_U2_L3	Słownictwo ogólne	0
-257	bouquet of fl owers	bukiet kwiatów	BG1_U2_L3	Słownictwo ogólne	0
+257	bouquet of flowers	bukiet kwiatów	BG1_U2_L3	Słownictwo ogólne	0
 258	souvenir	pamiątka	BG1_U2_L3	Słownictwo ogólne	0
 259	light	lekki	BG1_U2_L3	Słownictwo ogólne	0
 260	chest of drawers	komoda	BG1_U2_L3	Słownictwo ogólne	0
@@ -274,7 +274,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 273	with	z	BG1_U2_L3	Słownictwo ogólne	0
 274	without	bez	BG1_U2_L3	Słownictwo ogólne	0
 275	radiator	grzejnik; kaloryfer	BG1_U2_L3	Słownictwo ogólne	0
-276	photograph	fotografi a; zdjęcie	BG1_U2_L3	Słownictwo ogólne	0
+276	photograph	fotografia; zdjęcie	BG1_U2_L3	Słownictwo ogólne	0
 277	stereo	stereo; wieża	BG1_U2_L3	Słownictwo ogólne	0
 278	bookcase	regał na książki	BG1_U2_L3	Słownictwo ogólne	0
 279	bed clothes	pościel	BG1_U2_L3	Słownictwo ogólne	0
@@ -295,7 +295,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 294	night stand	stolik nocny	BG1_U2_L4	Słownictwo ogólne	0
 295	fridge	lodówka	BG1_U2_L4	Słownictwo ogólne	0
 296	dishwasher	zmywarka	BG1_U2_L4	Słownictwo ogólne	0
-297	chic, stylish	stylowny, szykowny	BG1_U2_L4	Słownictwo ogólne	0
+297	chic, stylish	stylowy, szykowny	BG1_U2_L4	Słownictwo ogólne	0
 298	maybe	może	BG1_U2_L4	Słownictwo ogólne	0
 299	as well, also, too	również; też	BG1_U2_L4	Słownictwo ogólne	0
 300	sure	pewnie	BG1_U2_L4	Słownictwo ogólne	0
@@ -310,7 +310,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 309	cheap 	tani	BG1_U3_L1	Zakupy	0
 310	shopping list 	lista zakupów	BG1_U3_L1	Zakupy	0
 311	shop assistant 	sprzedawca	BG1_U3_L1	Zakupy	0
-312	shopping basket 	koszyk na zaukupy	BG1_U3_L1	Zakupy	0
+312	shopping basket 	koszyk na zakupy	BG1_U3_L1	Zakupy	0
 313	greengrocer's 	warzywniak	BG1_U3_L1	Zakupy	0
 314	price 	cena	BG1_U3_L1	Zakupy	0
 315	buy 	kupować	BG1_U3_L1	Zakupy	0
@@ -321,7 +321,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 320	need 	potrzebować	BG1_U3_L1	Zakupy	0
 321	cost 	kosztować	BG1_U3_L1	Zakupy	0
 322	value 	wartość	BG1_U3_L1	Zakupy	0
-323	certainly 	oczywiście, z pewnością, naturanie	BG1_U3_L2	Słownictwo ogólne	0
+323	certainly 	oczywiście, z pewnością, naturalnie	BG1_U3_L2	Słownictwo ogólne	0
 324	hat 	kapelusz	BG1_U3_L2	Słownictwo ogólne	0
 325	watch 	zegarek	BG1_U3_L2	Słownictwo ogólne	0
 326	scarf 	szalik	BG1_U3_L2	Słownictwo ogólne	0
@@ -351,7 +351,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 350	mouse 	mysz	BG1_U3_L4	Słownictwo ogólne	0
 351	tooth 	ząb	BG1_U3_L4	Słownictwo ogólne	0
 352	foot 	stopa	BG1_U3_L4	Słownictwo ogólne	0
-353	fish 	ryba / rybka, ryby / rybki	BG1_U3_L4	Słownictwo ogólne	0
+353	fish 	ryba / ryba, ryby / rybki	BG1_U3_L4	Słownictwo ogólne	0
 354	fish tank 	akwarium	BG1_U3_L4	Słownictwo ogólne	0
 355	fish food 	pokarm dla rybek	BG1_U3_L4	Słownictwo ogólne	0
 356	aggressive 	agresywny	BG1_U3_L4	Słownictwo ogólne	0
@@ -360,20 +360,20 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 359	bite 	gryźć	BG1_U3_L4	Słownictwo ogólne	0
 360	cake 	ciasto	BG1_U3_L4	Słownictwo ogólne	0
 361	farm 	gospodarstwo	BG1_U3_L4	Słownictwo ogólne	0
-362	seeds 	nasiona, ziarna	BG1_U3_L4	Słownictwo ogólne	0
+362	seed	nasiono, ziarno	BG1_U3_L4	Słownictwo ogólne	0
 363	nut 	orzech	BG1_U3_L4	Słownictwo ogólne	0
 364	fruit 	owoc	BG1_U3_L4	Słownictwo ogólne	0
 365	shoe	but	BG1_U3_L4	Słownictwo ogólne	0
 366	butter	masło	BG1_U4_L1	Gotowanie	0
 367	chicken	kurczak	BG1_U4_L1	Gotowanie	0
 368	cookery book	książka kucharska	BG1_U4_L1	Gotowanie	0
-369	cup	fi liżanka	BG1_U4_L1	Gotowanie	0
+369	cup	filiżanka	BG1_U4_L1	Gotowanie	0
 370	delicious	smaczne	BG1_U4_L1	Gotowanie	0
 371	egg	jajko	BG1_U4_L1	Gotowanie	0
-372	fi sh soup	zupa rybna	BG1_U4_L1	Gotowanie	0
-373	fl our	mąka	BG1_U4_L1	Gotowanie	0
+372	fish soup	zupa rybna	BG1_U4_L1	Gotowanie	0
+373	flour	mąka	BG1_U4_L1	Gotowanie	0
 374	glass	szklanka	BG1_U4_L1	Gotowanie	0
-375	ingredients	składniki	BG1_U4_L1	Gotowanie	0
+375	ingredient	składnik	BG1_U4_L1	Gotowanie	0
 376	milk	mleko	BG1_U4_L1	Gotowanie	0
 377	oil	olej	BG1_U4_L1	Gotowanie	0
 378	omelette	omlet	BG1_U4_L1	Gotowanie	0
@@ -437,11 +437,11 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 436	take out	wyciągnąć	BG1_U4_L3	Słownictwo ogólne	0
 437	seafood	owoce morza	BG1_U4_L3	Słownictwo ogólne	0
 438	sell	sprzedać	BG1_U4_L3	Słownictwo ogólne	0
-439	shop for	kupować coś	BG1_U4_L3	Słownictwo ogólne	0
+439	shop for something	kupować coś	BG1_U4_L3	Słownictwo ogólne	0
 440	stall	stragan	BG1_U4_L3	Słownictwo ogólne	0
 441	why	dlaczego	BG1_U4_L3	Słownictwo ogólne	0
 442	celery	seler	BG1_U4_L4	Praca	0
-443	coins	monety	BG1_U4_L4	Praca	0
+443	coin	moneta	BG1_U4_L4	Praca	0
 444	cost	kosztować	BG1_U4_L4	Praca	0
 445	count	liczyć	BG1_U4_L4	Praca	0
 446	customer	klient	BG1_U4_L4	Praca	0
@@ -449,14 +449,14 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 448	equal	równać się	BG1_U4_L4	Praca	0
 449	fridge	lodówka	BG1_U4_L4	Praca	0
 450	healthy food	zdrowa żywność	BG1_U4_L4	Praca	0
-451	Here you are.	Proszę bardzo.	BG1_U4_L4	Praca	0
-452	Here you go.	Proszę bardzo.	BG1_U4_L4	Praca	0
+451	Here you are	Proszę bardzo.	BG1_U4_L4	Praca	0
+452	Here you go	Proszę bardzo.	BG1_U4_L4	Praca	0
 453	notes	banknoty	BG1_U4_L4	Praca	0
 454	pence	pensy	BG1_U4_L4	Praca	0
 455	pounds	funty	BG1_U4_L4	Praca	0
-456	profi t	zyski	BG1_U4_L4	Praca	0
+456	profit	zyski	BG1_U4_L4	Praca	0
 457	stall	stragan	BG1_U4_L4	Praca	0
-458	There you go.	Proszę bardzo.	BG1_U4_L4	Praca	0
+458	There you go	Proszę bardzo.	BG1_U4_L4	Praca	0
 459	total	suma	BG1_U4_L4	Praca	0
 460	by	przez	BG1_U5_L1	Słownictwo ogólne	0
 461	about	o	BG1_U5_L1	Słownictwo ogólne	0
@@ -525,7 +525,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 524	boring	nudny	BG1_U5_L4	Słownictwo ogólne	0
 525	degree in	tytuł naukowy z	BG1_U5_L4	Słownictwo ogólne	0
 526	diary	dziennik	BG1_U5_L4	Słownictwo ogólne	0
-527	diffi cult	trudny	BG1_U5_L4	Słownictwo ogólne	0
+527	difficult	trudny	BG1_U5_L4	Słownictwo ogólne	0
 528	dream	marzenie	BG1_U5_L4	Słownictwo ogólne	0
 529	easy	łatwy	BG1_U5_L4	Słownictwo ogólne	0
 530	exciting	ekscytujący	BG1_U5_L4	Słownictwo ogólne	0
@@ -534,7 +534,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 533	get	dostać	BG1_U5_L4	Słownictwo ogólne	0
 534	give	dać	BG1_U5_L4	Słownictwo ogólne	0
 535	graduate	kończyć szkołę	BG1_U5_L4	Słownictwo ogólne	0
-536	interview	wywiad, rozmowa kwalifi kacyjna	BG1_U5_L4	Słownictwo ogólne	0
+536	interview	wywiad, rozmowa kwalifikacyjna	BG1_U5_L4	Słownictwo ogólne	0
 537	job	praca	BG1_U5_L4	Słownictwo ogólne	0
 538			BG2_U1_L1		0
 539					0

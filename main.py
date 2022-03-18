@@ -1,4 +1,7 @@
+from ast import IsNot
+import time
 import os
+import urllib.request
 
 
 def read_data():  # Funkcja do odczytu plików .tsv
@@ -14,14 +17,13 @@ def get_words_list():  # Funkcja do wygenerowania listy angielskich słówek
     wordsList = []
     for line in read_data():
         if line[1] != '':
-            wordsList.append(line[1])
+            if line[1].endswith(' '):
+                wordsList.append(
+                    line[1][:-1].replace("'", '').replace('?', '').replace('.', '').replace(' ', '_').lower())
+            else:
+                wordsList.append(line[1].replace(
+                    "'", '').replace('?', '').replace('.', '').replace(' ', '_').lower())
     return wordsList
-
-
-def check_white_space():  # Funkcja do sprawadzania białych zanków w pliku bazowym
-    for record in read_data():
-        if record[1].endswith(' ') or record[1].startswith(' '):
-            print(f'{record[0]}  --{record[1]}--')
 
 
 def words_to_download_audio():  # Funkcja sprawdza do których słowek nie ma pliku audio
@@ -36,7 +38,19 @@ def words_to_download_audio():  # Funkcja sprawdza do których słowek nie ma pl
     return wordsToDown
 
 
-# print(words_to_download_audio())
+wordError = []
+for word in words_to_download_audio():
+    time.sleep(1)
+    try:
+        urllib.request.urlretrieve(
+            'https://www.diki.pl/images-common/en/mp3/'+word+'.mp3', '.\\audio\\'+word+'.mp3')
 
-for chrupek in words_to_download_audio():
-    print(chrupek)
+    except:
+        wordError.append(word)
+        print(f'ERROR: {word}')
+    else:
+        print(f'Download - OK: {word}')
+
+if len(wordError) > 0:
+    print(f'Błędy przy pobieraniu {len(wordError)} słów')
+    print(wordError)
