@@ -1,0 +1,636 @@
+NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
+1	a few	kilka	BG1_U1_L1	Słownictwo ogólne	1
+2	agree	zgadzać się	BG1_U1_L1	Słownictwo ogólne	1
+3	also	również	BG1_U1_L1	Słownictwo ogólne	1
+4	age	wiek	BG1_U1_L1	Słownictwo ogólne	1
+5	but	ale	BG1_U1_L1	Słownictwo ogólne	1
+6	chat with	rozmawiać z	BG1_U1_L1	Słownictwo ogólne	1
+7	enjoy	lubić	BG1_U1_L1	Słownictwo ogólne	1
+8	especially	szczególnie	BG1_U1_L1	Słownictwo ogólne	1
+9	famous	sławny	BG1_U1_L1	Słownictwo ogólne	1
+10	forest	las	BG1_U1_L1	Słownictwo ogólne	1
+11	I would like	chciałbym	BG1_U1_L1	Słownictwo ogólne	1
+12	IT worker	informatyk	BG1_U1_L1	Słownictwo ogólne	1
+13	in the future	w przyszłości	BG1_U1_L1	Słownictwo ogólne	1
+14	interview	wywiad	BG1_U1_L1	Słownictwo ogólne	1
+15	introduce somebody	przedstawić kogoś	BG1_U1_L1	Słownictwo ogólne	1
+16	lifestyle	styl życia	BG1_U1_L1	Słownictwo ogólne	1
+17	near	blisko	BG1_U1_L1	Słownictwo ogólne	1
+18	originally	pierwotnie,oryginalnie	BG1_U1_L1	Słownictwo ogólne	1
+19	passion	pasja	BG1_U1_L1	Słownictwo ogólne	1
+20	politician	polityk	BG1_U1_L1	Słownictwo ogólne	1
+21	question	pytanie	BG1_U1_L1	Słownictwo ogólne	1
+22	success	sukces	BG1_U1_L1	Słownictwo ogólne	1
+23	subject	przedmiot szkolny	BG1_U1_L1	Słownictwo ogólne	1
+24	take part	brać udział	BG1_U1_L1	Słownictwo ogólne	1
+25	teach	uczyć kogoś	BG1_U1_L1	Słownictwo ogólne	1
+26	technology	technologia	BG1_U1_L1	Słownictwo ogólne	1
+27	too	również	BG1_U1_L1	Słownictwo ogólne	1
+28	twice a week	dwa razy w tygodniu	BG1_U1_L1	Słownictwo ogólne	1
+29	volunteer	ochotnik	BG1_U1_L1	Słownictwo ogólne	1
+30	welcome	witaj	BG1_U1_L1	Słownictwo ogólne	1
+31	what else?	co jeszcze	BG1_U1_L1	Słownictwo ogólne	1
+32	active	aktywny	BG1_U1_L1	Przymiotniki	1
+33	ambitious	ambitny	BG1_U1_L1	Przymiotniki	1
+34	bad	zły	BG1_U1_L1	Przymiotniki	1
+35	bored	znudzony	BG1_U1_L1	Przymiotniki	1
+36	boring	nudny	BG1_U1_L1	Przymiotniki	1
+37	cute	słodki	BG1_U1_L1	Przymiotniki	1
+38	difficult	trudny	BG1_U1_L1	Przymiotniki	1
+39	early	wczesny wcześnie	BG1_U1_L1	Przymiotniki	1
+40	easy 	łatwy	BG1_U1_L1	Przymiotniki	1
+41	enthusiastic	entuzjastyczny	BG1_U1_L1	Przymiotniki	1
+42	good	dobry	BG1_U1_L1	Przymiotniki	1
+43	great	świetny	BG1_U1_L1	Przymiotniki	1
+44	happy	szczęśliwy	BG1_U1_L1	Przymiotniki	1
+45	hard-working	pracowity	BG1_U1_L1	Przymiotniki	1
+46	intelligent	inteligentny	BG1_U1_L1	Przymiotniki	1
+47	interesting	interesujący	BG1_U1_L1	Przymiotniki	1
+48	lazy	leniwy	BG1_U1_L1	Przymiotniki	1
+49	local	lokalny, miejscowy	BG1_U1_L1	Przymiotniki	1
+50	noisy	hałaśliwy	BG1_U1_L1	Przymiotniki	1
+51	slow	wolny	BG1_U1_L1	Przymiotniki	1
+52	stressful	stresujący	BG1_U1_L1	Przymiotniki	1
+53	stupid	głupi	BG1_U1_L1	Przymiotniki	1
+54	surprised	zdziwiony	BG1_U1_L1	Przymiotniki	1
+55	alone	sam	BG1_U1_L2	Przymiotniki	0
+56	angry	zły	BG1_U1_L2	Przymiotniki	0
+57	attractive	atrakcyjny	BG1_U1_L2	Przymiotniki	0
+58	comfortable	wygodny	BG1_U1_L2	Przymiotniki	0
+59	delicious	pyszny	BG1_U1_L2	Przymiotniki	0
+60	early	wczesny, wcześnie	BG1_U1_L2	Przymiotniki	0
+61	exciting	ekscytujący	BG1_U1_L2	Przymiotniki	0
+62	friendly	przyjacielski	BG1_U1_L2	Przymiotniki	0
+63	healthy	zdrowy	BG1_U1_L2	Przymiotniki	0
+64	interested	zainteresowany	BG1_U1_L2	Przymiotniki	0
+65	late	późno, późny	BG1_U1_L2	Przymiotniki	0
+66	lazy	leniwy	BG1_U1_L2	Przymiotniki	0
+67	lucky	szczęśliwy	BG1_U1_L2	Przymiotniki	0
+68	modern	nowoczesny	BG1_U1_L2	Przymiotniki	0
+69	nice	miły	BG1_U1_L2	Przymiotniki	0
+70	similar	podobny	BG1_U1_L2	Przymiotniki	0
+71	tasty	smaczny	BG1_U1_L2	Przymiotniki	0
+72	worried	zmartwiony	BG1_U1_L2	Przymiotniki	0
+73	all	wszystko	BG1_U1_L2	Słownictwo ogólne	0
+74	anymore	już nie	BG1_U1_L2	Słownictwo ogólne	0
+75	art	sztuka	BG1_U1_L2	Słownictwo ogólne	0
+76	at the seaside	nad morzem	BG1_U1_L2	Słownictwo ogólne	0
+77	basketball	koszykówka	BG1_U1_L2	Słownictwo ogólne	0
+78	beef	wołowina	BG1_U1_L2	Słownictwo ogólne	0
+79	biology	biologia	BG1_U1_L2	Słownictwo ogólne	0
+80	camp	obóz	BG1_U1_L2	Słownictwo ogólne	0
+81	cheese	ser	BG1_U1_L2	Słownictwo ogólne	0
+82	chemistry	chemia	BG1_U1_L2	Słownictwo ogólne	0
+83	cool	fajny	BG1_U1_L2	Słownictwo ogólne	0
+84	cost	kosztować	BG1_U1_L2	Słownictwo ogólne	0
+85	during	podczas	BG1_U1_L2	Słownictwo ogólne	0
+86	equipment	sprzęt	BG1_U1_L2	Słownictwo ogólne	0
+87	everything	wszystko	BG1_U1_L2	Słownictwo ogólne	0
+88	fun	dobra zabawa	BG1_U1_L2	Słownictwo ogólne	0
+89	lake	jezioro	BG1_U1_L2	Słownictwo ogólne	0
+90	lettuce	sałata	BG1_U1_L2	Słownictwo ogólne	0
+91	mountains	góry	BG1_U1_L2	Słownictwo ogólne	0
+92	near	blisko	BG1_U1_L2	Słownictwo ogólne	0
+93	offer	oferować, oferta	BG1_U1_L2	Słownictwo ogólne	0
+94	onion	cebula	BG1_U1_L2	Słownictwo ogólne	0
+95	pasta	makaron	BG1_U1_L2	Słownictwo ogólne	0
+96	potatoes	ziemniaki	BG1_U1_L2	Słownictwo ogólne	0
+97	postcard	pocztówka	BG1_U1_L2	Słownictwo ogólne	0
+98	rice	ryż	BG1_U1_L2	Słownictwo ogólne	0
+99	sandwich	kanapka	BG1_U1_L2	Słownictwo ogólne	0
+100	sky	niebo	BG1_U1_L2	Słownictwo ogólne	0
+101	the best	najlepszy	BG1_U1_L2	Słownictwo ogólne	0
+102	volleyball	siatkówka	BG1_U1_L2	Słownictwo ogólne	0
+103	weather	pogoda	BG1_U1_L2	Słownictwo ogólne	0
+104	what's up?	co słychać?	BG1_U1_L2	Słownictwo ogólne	0
+105	anyway	tak czy inaczej	BG1_U1_L3	Słownictwo ogólne	0
+106	backpack	plecak	BG1_U1_L3	Słownictwo ogólne	0
+107	be on a diet	być na diecie	BG1_U1_L3	Słownictwo ogólne	0
+108	big	duży	BG1_U1_L3	Słownictwo ogólne	0
+109	birthday wishes	życzenia urodzinowe	BG1_U1_L3	Słownictwo ogólne	0
+110	giraffe	żyrafa	BG1_U1_L3	Słownictwo ogólne	0
+111	give me a clue	podpowiedz mi	BG1_U1_L3	Słownictwo ogólne	0
+112	gold	złoto	BG1_U1_L3	Słownictwo ogólne	0
+113	hint	podpowiedź	BG1_U1_L3	Słownictwo ogólne	0
+114	hospital	szpital	BG1_U1_L3	Słownictwo ogólne	0
+115	it's my go	moja kolej	BG1_U1_L3	Słownictwo ogólne	0
+116	it's your turn	twoja kolej	BG1_U1_L3	Słownictwo ogólne	0
+117	jewellery	biżuteria	BG1_U1_L3	Słownictwo ogólne	0
+118	make a mistake	zrobić błąd	BG1_U1_L3	Słownictwo ogólne	0
+119	my turn	moja kolej	BG1_U1_L3	Słownictwo ogólne	0
+120	neck	szyja	BG1_U1_L3	Słownictwo ogólne	0
+121	never mind	nie ma znaczenia	BG1_U1_L3	Słownictwo ogólne	0
+122	parrot	papuga	BG1_U1_L3	Słownictwo ogólne	0
+123	pillow	poduszka	BG1_U1_L3	Słownictwo ogólne	0
+124	quite	całkiem, dość	BG1_U1_L3	Słownictwo ogólne	0
+125	rich	bogaty	BG1_U1_L3	Słownictwo ogólne	0
+126	rubber	guma, gumka	BG1_U1_L3	Słownictwo ogólne	0
+127	Shall I ....?	Czy mam ...?	BG1_U1_L3	Słownictwo ogólne	0
+128	silver	srebro	BG1_U1_L3	Słownictwo ogólne	0
+129	small	mały	BG1_U1_L3	Słownictwo ogólne	0
+130	something	coś	BG1_U1_L3	Słownictwo ogólne	0
+131	strange	dziwny	BG1_U1_L3	Słownictwo ogólne	0
+132	tall	wysoki	BG1_U1_L3	Słownictwo ogólne	0
+133	use	używać	BG1_U1_L3	Słownictwo ogólne	0
+134	you don't have to buy me ....	nie musisz mi kupować .....	BG1_U1_L3	Słownictwo ogólne	0
+135	arrive late	spóźnić się	BG1_U1_L4	Słownictwo ogólne	0
+136	broken heart	złamane serce	BG1_U1_L4	Słownictwo ogólne	0
+137	busy	zajęty, zapracowany	BG1_U1_L4	Słownictwo ogólne	0
+138	catch the bus	złapać autobus	BG1_U1_L4	Słownictwo ogólne	0
+139	classmate	kolega/koleżanka z klasy	BG1_U1_L4	Słownictwo ogólne	0
+140	colleague	kolega	BG1_U1_L4	Słownictwo ogólne	0
+141	customer	klient	BG1_U1_L4	Słownictwo ogólne	0
+142	especially	szczególnie	BG1_U1_L4	Słownictwo ogólne	0
+143	foreign language	język obcy	BG1_U1_L4	Słownictwo ogólne	0
+144	high school	liceum	BG1_U1_L4	Słownictwo ogólne	0
+145	irritating	irytujący	BG1_U1_L4	Słownictwo ogólne	0
+146	law	prawo	BG1_U1_L4	Słownictwo ogólne	0
+147	midnight	północ	BG1_U1_L4	Słownictwo ogólne	0
+148	miss the bus	przegapić autobus	BG1_U1_L4	Słownictwo ogólne	0
+149	pocket money	kieszonkowe	BG1_U1_L4	Słownictwo ogólne	0
+150	print	drukować	BG1_U1_L4	Słownictwo ogólne	0
+151	printer	drukarka	BG1_U1_L4	Słownictwo ogólne	0
+152	repair	naprawić, naprawa	BG1_U1_L4	Słownictwo ogólne	0
+153	shout at	krzyczeć na kogoś	BG1_U1_L4	Słownictwo ogólne	0
+154	souvenir	sklep z pamiątkami	BG1_U1_L4	Słownictwo ogólne	0
+155	teenager	nastolatek	BG1_U1_L4	Słownictwo ogólne	0
+156	ticket	bilet	BG1_U1_L4	Słownictwo ogólne	0
+157	too	też, również	BG1_U1_L4	Słownictwo ogólne	0
+158	volleyball	siatkówka	BG1_U1_L4	Słownictwo ogólne	0
+159	wash the dishes	zmywać naczynia	BG1_U1_L4	Słownictwo ogólne	0
+160	what's the matter?	co się stało?	BG1_U1_L4	Słownictwo ogólne	0
+161	always	zawsze	BG1_U1_L4	Przysłówki częstotliwości	0
+162	never	nigdy	BG1_U1_L4	Przysłówki częstotliwości	0
+163	often	często	BG1_U1_L4	Przysłówki częstotliwości	0
+164	once	raz	BG1_U1_L4	Przysłówki częstotliwości	0
+165	seldom	rzadko	BG1_U1_L4	Przysłówki częstotliwości	0
+166	sometimes	czasami	BG1_U1_L4	Przysłówki częstotliwości	0
+167	three times	trzy razy	BG1_U1_L4	Przysłówki częstotliwości	0
+168	twice	dwa razy	BG1_U1_L4	Przysłówki częstotliwości	0
+169	usually	zazwyczaj	BG1_U1_L4	Przysłówki częstotliwości	0
+170	mother, mum	matka, mama	BG1_U2_L1	Rodzina	0
+171	father, dad	ojciec, tata	BG1_U2_L1	Rodzina	0
+172	sister	siostra	BG1_U2_L1	Rodzina	0
+173	brother	brat	BG1_U2_L1	Rodzina	0
+174	wife	żona	BG1_U2_L1	Rodzina	0
+175	husband	mąż	BG1_U2_L1	Rodzina	0
+176	parents	rodzice	BG1_U2_L1	Rodzina	0
+177	daughter	córka	BG1_U2_L1	Rodzina	0
+178	son	syn	BG1_U2_L1	Rodzina	0
+179	child, children	dziecko, dzieci	BG1_U2_L1	Rodzina	0
+180	grandmother, grandma	babcia, babunia	BG1_U2_L1	Rodzina	0
+181	grandfather, grandpa	dziadek, dziadziuś	BG1_U2_L1	Rodzina	0
+182	grandparents	dziadkowie	BG1_U2_L1	Rodzina	0
+183	grandchild, grandchildren	wnuczek, wnuczki	BG1_U2_L1	Rodzina	0
+184	granddaughter	wnuczka	BG1_U2_L1	Rodzina	0
+185	grandson	wnuczek	BG1_U2_L1	Rodzina	0
+186	cousin	kuzyn, kuzynka	BG1_U2_L1	Rodzina	0
+187	aunt	ciotka	BG1_U2_L1	Rodzina	0
+188	uncle	wujek	BG1_U2_L1	Rodzina	0
+189	nephew	siostrzeniec, bratanek	BG1_U2_L1	Rodzina	0
+190	niece	siostrzenica, bratanica	BG1_U2_L1	Rodzina	0
+191	family	rodzina	BG1_U2_L1	Rodzina	0
+192	relatives	krewni	BG1_U2_L1	Rodzina	0
+193	attend school	uczęszczac do szkoły	BG1_U2_L1	Słownictwo ogólne	0
+194	together	razem	BG1_U2_L1	Słownictwo ogólne	0
+195	married	zamężna, zonaty, po ślubie	BG1_U2_L1	Słownictwo ogólne	0
+196	cute	słodki, śliczny	BG1_U2_L1	Słownictwo ogólne	0
+197	relation	relacja	BG1_U2_L1	Słownictwo ogólne	0
+198	at the weekend	w weekend	BG1_U2_L1	Słownictwo ogólne	0
+199	seldom, rarely, hardly ever	rzadko, rzadko kiedy	BG1_U2_L1	Słownictwo ogólne	0
+200	unfortunately	niestety	BG1_U2_L1	Słownictwo ogólne	0
+201	twins	bliźniaki	BG1_U2_L1	Słownictwo ogólne	0
+202	college	uczelnia wyższa	BG1_U2_L1	Słownictwo ogólne	0
+203	favourite	ulubiony	BG1_U2_L1	Słownictwo ogólne	0
+204	male	rodzaj męski, mężczyzna	BG1_U2_L1	Słownictwo ogólne	0
+205	female	rodzaj żeński, kobieta	BG1_U2_L1	Słownictwo ogólne	0
+206	friendly	przyjazny	BG1_U2_L1	Słownictwo ogólne	0
+207	person	osoba	BG1_U2_L1	Słownictwo ogólne	0
+208	people	ludzie	BG1_U2_L1	Słownictwo ogólne	0
+209	who	kto	BG1_U2_L1	Słownictwo ogólne	0
+210	memory	pamięć	BG1_U2_L1	Słownictwo ogólne	0
+211	dining room	jadalnia	BG1_U2_L2	Pokoje i meble	0
+212	living room	pokój dzienny, duzy pokój	BG1_U2_L2	Pokoje i meble	0
+213	bathroom	łazienka	BG1_U2_L2	Pokoje i meble	0
+214	bedroom	sypialnia	BG1_U2_L2	Pokoje i meble	0
+215	kitchen	kuchnia	BG1_U2_L2	Pokoje i meble	0
+216	study	gabinet	BG1_U2_L2	Pokoje i meble	0
+217	balcony	balkon	BG1_U2_L2	Pokoje i meble	0
+218	garden	ogród	BG1_U2_L2	Pokoje i meble	0
+219	attic	poddasze, strych	BG1_U2_L2	Pokoje i meble	0
+220	table	stół	BG1_U2_L2	Pokoje i meble	0
+221	chair	krzesło	BG1_U2_L2	Pokoje i meble	0
+222	armchair	fotel	BG1_U2_L2	Pokoje i meble	0
+223	carpet	dywan	BG1_U2_L2	Pokoje i meble	0
+224	floor	podłoga	BG1_U2_L2	Pokoje i meble	0
+225	TV set	telewizor	BG1_U2_L2	Pokoje i meble	0
+226	curtains	zasłonki	BG1_U2_L2	Pokoje i meble	0
+227	sofa	sofa, kanapa	BG1_U2_L2	Pokoje i meble	0
+228	window	okno	BG1_U2_L2	Pokoje i meble	0
+229	door	drzwi	BG1_U2_L2	Pokoje i meble	0
+230	coffee table	stolik, ława	BG1_U2_L2	Pokoje i meble	0
+231	bath	wanna	BG1_U2_L2	Pokoje i meble	0
+232	shower	prysznic	BG1_U2_L2	Pokoje i meble	0
+233	bed	łóżko	BG1_U2_L2	Pokoje i meble	0
+234	wardrobe	szafa	BG1_U2_L2	Pokoje i meble	0
+235	bedside table	stolik, szafka nocna	BG1_U2_L2	Pokoje i meble	0
+236	lamp	lampa	BG1_U2_L2	Pokoje i meble	0
+237	cupboards	szafki kuchenne	BG1_U2_L2	Pokoje i meble	0
+238	cooker	kuchenka	BG1_U2_L2	Pokoje i meble	0
+239	microwave	mikrofalówka	BG1_U2_L2	Pokoje i meble	0
+240	oven	piekarnik	BG1_U2_L2	Pokoje i meble	0
+241	chest of drowers	komoda	BG1_U2_L2	Pokoje i meble	0
+242	desk	biurko	BG1_U2_L2	Pokoje i meble	0
+243	fantastic	fantastyczny	BG1_U2_L2	Słownictwo ogólne	0
+244	comfortable	wygodny, komfortowy	BG1_U2_L2	Słownictwo ogólne	0
+245	location	lokalizacja	BG1_U2_L2	Słownictwo ogólne	0
+246	modern	nowoczesny	BG1_U2_L2	Słownictwo ogólne	0
+247	lovely	śliczny, cudowny	BG1_U2_L2	Słownictwo ogólne	0
+248	cosy	przytulny	BG1_U2_L2	Słownictwo ogólne	0
+249	space	przestrzeń	BG1_U2_L2	Słownictwo ogólne	0
+250	stylish	stylowy	BG1_U2_L2	Słownictwo ogólne	0
+251	quite	dość, całkiem	BG1_U2_L2	Słownictwo ogólne	0
+252	block of flats	blok mieszkalny	BG1_U2_L2	Słownictwo ogólne	0
+253	furniture	meble	BG1_U2_L2	Słownictwo ogólne	0
+254	equipment	sprzęt	BG1_U2_L2	Słownictwo ogólne	0
+255	wall	ściana	BG1_U2_L3	Słownictwo ogólne	0
+256	ornament	dekoracja; ozdoba	BG1_U2_L3	Słownictwo ogólne	0
+257	bouquet of fl owers	bukiet kwiatów	BG1_U2_L3	Słownictwo ogólne	0
+258	souvenir	pamiątka	BG1_U2_L3	Słownictwo ogólne	0
+259	light	lekki	BG1_U2_L3	Słownictwo ogólne	0
+260	chest of drawers	komoda	BG1_U2_L3	Słownictwo ogólne	0
+261	vase	wazon	BG1_U2_L3	Słownictwo ogólne	0
+262	strange	dziwny	BG1_U2_L3	Słownictwo ogólne	0
+263	stranger	nieznajomy	BG1_U2_L3	Słownictwo ogólne	0
+264	above; over	ponad; nad	BG1_U2_L3	Słownictwo ogólne	0
+265	toilet	toaleta; klozet	BG1_U2_L3	Słownictwo ogólne	0
+266	stone	kamień	BG1_U2_L3	Słownictwo ogólne	0
+267	shell	muszelka	BG1_U2_L3	Słownictwo ogólne	0
+268	surprise	niespodzianka	BG1_U2_L3	Słownictwo ogólne	0
+269	spend	spędzać	BG1_U2_L3	Słownictwo ogólne	0
+270	over there	o, tam	BG1_U2_L3	Słownictwo ogólne	0
+271	show somebody around	oprowadzić kogoś	BG1_U2_L3	Słownictwo ogólne	0
+272	listen	słuchać	BG1_U2_L3	Słownictwo ogólne	0
+273	with	z	BG1_U2_L3	Słownictwo ogólne	0
+274	without	bez	BG1_U2_L3	Słownictwo ogólne	0
+275	radiator	grzejnik; kaloryfer	BG1_U2_L3	Słownictwo ogólne	0
+276	photograph	fotografi a; zdjęcie	BG1_U2_L3	Słownictwo ogólne	0
+277	stereo	stereo; wieża	BG1_U2_L3	Słownictwo ogólne	0
+278	bookcase	regał na książki	BG1_U2_L3	Słownictwo ogólne	0
+279	bed clothes	pościel	BG1_U2_L3	Słownictwo ogólne	0
+280	mirror	lustro	BG1_U2_L3	Słownictwo ogólne	0
+281	washing machine	pralka	BG1_U2_L3	Słownictwo ogólne	0
+282	rug	dywanik	BG1_U2_L3	Słownictwo ogólne	0
+283	best friend	najlepszy przyjaciel	BG1_U2_L3	Słownictwo ogólne	0
+284	rent	wynajmować	BG1_U2_L4	Słownictwo ogólne	0
+285	estate agency	biuro nieruchomości	BG1_U2_L4	Słownictwo ogólne	0
+286	estate agent	agent nieruchomości	BG1_U2_L4	Słownictwo ogólne	0
+287	kettle	czajnik	BG1_U2_L4	Słownictwo ogólne	0
+288	cooker	kuchenka	BG1_U2_L4	Słownictwo ogólne	0
+289	table lamp	lampa stołowa	BG1_U2_L4	Słownictwo ogólne	0
+290	single bed	pojedyncze łóżko	BG1_U2_L4	Słownictwo ogólne	0
+291	double bed	podwójne łóżko	BG1_U2_L4	Słownictwo ogólne	0
+292	oven	piec	BG1_U2_L4	Słownictwo ogólne	0
+293	bookcase	regał na książki	BG1_U2_L4	Słownictwo ogólne	0
+294	night stand	stolik nocny	BG1_U2_L4	Słownictwo ogólne	0
+295	fridge	lodówka	BG1_U2_L4	Słownictwo ogólne	0
+296	dishwasher	zmywarka	BG1_U2_L4	Słownictwo ogólne	0
+297	chic, stylish	stylowny, szykowny	BG1_U2_L4	Słownictwo ogólne	0
+298	maybe	może	BG1_U2_L4	Słownictwo ogólne	0
+299	as well, also, too 	również; też	BG1_U2_L4	Słownictwo ogólne	0
+300	sure	pewnie	BG1_U2_L4	Słownictwo ogólne	0
+301	talk on the phone	rozmawiać przez telefon	BG1_U2_L4	Słownictwo ogólne	0
+302	pay 	płacić	BG1_U2_L4	Słownictwo ogólne	0
+303	sell 	sprzedawać	BG1_U2_L4	Słownictwo ogólne	0
+304	buy	kupować	BG1_U2_L4	Słownictwo ogólne	0
+305	doorbell 	dzwonek do drzwi	BG1_U2_L4	Słownictwo ogólne	0
+306	great idea 	świetny pomysł	BG1_U2_L4	Słownictwo ogólne	0
+307	housing estate 	osiedle mieszkaniowe	BG1_U2_L4	Słownictwo ogólne	0
+308	expensive 	drogi	BG1_U3_L1	Zakupy	0
+309	cheap 	tani	BG1_U3_L1	Zakupy	0
+310	shopping list 	lista zakupów	BG1_U3_L1	Zakupy	0
+311	shop assistant 	sprzedawca	BG1_U3_L1	Zakupy	0
+312	shopping basket 	koszyk na zaukupy	BG1_U3_L1	Zakupy	0
+313	greengrocer's 	warzywniak	BG1_U3_L1	Zakupy	0
+314	price 	cena	BG1_U3_L1	Zakupy	0
+315	buy 	kupować	BG1_U3_L1	Zakupy	0
+316	customer 	klient	BG1_U3_L1	Zakupy	0
+317	blackcurrant 	czarna porzeczka	BG1_U3_L1	Zakupy	0
+318	pineapple 	ananas	BG1_U3_L1	Zakupy	0
+319	kilo 	kilo	BG1_U3_L1	Zakupy	0
+320	need 	potrzebować	BG1_U3_L1	Zakupy	0
+321	cost 	kosztować	BG1_U3_L1	Zakupy	0
+322	value 	wartość	BG1_U3_L1	Zakupy	0
+323	certainly 	oczywiście, z pewnością, naturanie	BG1_U3_L2	Słownictwo ogólne	0
+324	hat 	kapelusz	BG1_U3_L2	Słownictwo ogólne	0
+325	watch 	zegarek	BG1_U3_L2	Słownictwo ogólne	0
+326	scarf 	szalik	BG1_U3_L2	Słownictwo ogólne	0
+327	gift 	prezent	BG1_U3_L2	Słownictwo ogólne	0
+328	digital 	elektroniczny	BG1_U3_L2	Słownictwo ogólne	0
+329	gold 	złoty	BG1_U3_L2	Słownictwo ogólne	0
+330	jewellery 	biżuteria	BG1_U3_L2	Słownictwo ogólne	0
+331	counter 	lada	BG1_U3_L2	Słownictwo ogólne	0
+332	recommend 	polecić	BG1_U3_L2	Słownictwo ogólne	0
+333	show 	pokazać	BG1_U3_L2	Słownictwo ogólne	0
+334	gadget 	gadżet	BG1_U3_L2	Słownictwo ogólne	0
+335	rich 	bogaty	BG1_U3_L2	Słownictwo ogólne	0
+336	shopaholic 	maniak zakupów, zakupoholik	BG1_U3_L2	Słownictwo ogólne	0
+337	bookshop 	księgarnia	BG1_U3_L3	Słownictwo ogólne	0
+338	library 	biblioteka	BG1_U3_L3	Słownictwo ogólne	0
+339	indoor market 	targ	BG1_U3_L3	Słownictwo ogólne	0
+340	bakery 	piekarnia	BG1_U3_L3	Słownictwo ogólne	0
+341	silver 	srebrny	BG1_U3_L3	Słownictwo ogólne	0
+342	train 	pociąg	BG1_U3_L3	Słownictwo ogólne	0
+343	in front of	przed	BG1_U3_L3	Słownictwo ogólne	0
+344	between	pomiędzy	BG1_U3_L3	Słownictwo ogólne	0
+345	behind 	za	BG1_U3_L3	Słownictwo ogólne	0
+346	next to 	obok	BG1_U3_L3	Słownictwo ogólne	0
+347	post box 	skrzynka pocztowa	BG1_U3_L3	Słownictwo ogólne	0
+348	wrong 	niewłaściwy	BG1_U3_L3	Słownictwo ogólne	0
+349	cinema 	kino	BG1_U3_L3	Słownictwo ogólne	0
+350	mouse 	mysz	BG1_U3_L4	Słownictwo ogólne	0
+351	tooth 	ząb	BG1_U3_L4	Słownictwo ogólne	0
+352	foot 	stopa	BG1_U3_L4	Słownictwo ogólne	0
+353	fish 	ryba / rybka, ryby / rybki	BG1_U3_L4	Słownictwo ogólne	0
+354	fish tank 	akwarium	BG1_U3_L4	Słownictwo ogólne	0
+355	fish food 	pokarm dla rybek	BG1_U3_L4	Słownictwo ogólne	0
+356	aggressive 	agresywny	BG1_U3_L4	Słownictwo ogólne	0
+357	water 	woda	BG1_U3_L4	Słownictwo ogólne	0
+358	puppy 	szczeniak	BG1_U3_L4	Słownictwo ogólne	0
+359	bite 	gryźć	BG1_U3_L4	Słownictwo ogólne	0
+360	cake 	ciasto	BG1_U3_L4	Słownictwo ogólne	0
+361	farm 	gospodarstwo	BG1_U3_L4	Słownictwo ogólne	0
+362	seeds 	nasiona, ziarna	BG1_U3_L4	Słownictwo ogólne	0
+363	nut 	orzech	BG1_U3_L4	Słownictwo ogólne	0
+364	fruit 	owoc	BG1_U3_L4	Słownictwo ogólne	0
+365	shoe	but	BG1_U3_L4	Słownictwo ogólne	0
+366	butter	masło	BG1_U4_L1	Gotowanie	0
+367	chicken	kurczak	BG1_U4_L1	Gotowanie	0
+368	cookery book	książka kucharska	BG1_U4_L1	Gotowanie	0
+369	cup	fi liżanka	BG1_U4_L1	Gotowanie	0
+370	delicious	smaczne	BG1_U4_L1	Gotowanie	0
+371	egg	jajko	BG1_U4_L1	Gotowanie	0
+372	fi sh soup	zupa rybna	BG1_U4_L1	Gotowanie	0
+373	fl our	mąka	BG1_U4_L1	Gotowanie	0
+374	glass	szklanka	BG1_U4_L1	Gotowanie	0
+375	ingredients	składniki	BG1_U4_L1	Gotowanie	0
+376	milk	mleko	BG1_U4_L1	Gotowanie	0
+377	oil	olej	BG1_U4_L1	Gotowanie	0
+378	omelette	omlet	BG1_U4_L1	Gotowanie	0
+379	onion	cebula	BG1_U4_L1	Gotowanie	0
+380	pancake	naleśnik	BG1_U4_L1	Gotowanie	0
+381	pinch	szczypta	BG1_U4_L1	Gotowanie	0
+382	potato	ziemniak	BG1_U4_L1	Gotowanie	0
+383	prepare	przygotować	BG1_U4_L1	Gotowanie	0
+384	salt	sól	BG1_U4_L1	Gotowanie	0
+385	spoon	łyżeczka	BG1_U4_L1	Gotowanie	0
+386	sugar	cukier	BG1_U4_L1	Gotowanie	0
+387	water	woda	BG1_U4_L1	Gotowanie	0
+388	wine	wino	BG1_U4_L1	Gotowanie	0
+389	countable	policzalne	BG1_U4_L1	Słownictwo ogólne	0
+390	delicious	smaczne	BG1_U4_L1	Słownictwo ogólne	0
+391	money	pieniądze	BG1_U4_L1	Słownictwo ogólne	0
+392	need	potrzebować	BG1_U4_L1	Słownictwo ogólne	0
+393	well	cóż, więc	BG1_U4_L1	Słownictwo ogólne	0
+394	surprise	niespodzianka	BG1_U4_L1	Słownictwo ogólne	0
+395	uncountable	niepoliczalne	BG1_U4_L1	Słownictwo ogólne	0
+396	how much	ile	BG1_U4_L1	Słownictwo ogólne	0
+397	how many	ile	BG1_U4_L1	Słownictwo ogólne	0
+398	bowl	miska	BG1_U4_L2	Gotowanie	0
+399	break the eggs	rozbić jajka	BG1_U4_L2	Gotowanie	0
+400	cake tin	foremka do ciasta	BG1_U4_L2	Gotowanie	0
+401	chop	posiekać, pokroić	BG1_U4_L2	Gotowanie	0
+402	cut	pociąć	BG1_U4_L2	Gotowanie	0
+403	fork	widelec	BG1_U4_L2	Gotowanie	0
+404	knife	nóż	BG1_U4_L2	Gotowanie	0
+405	melt	rozpuścić	BG1_U4_L2	Gotowanie	0
+406	mix	wymieszać	BG1_U4_L2	Gotowanie	0
+407	microwave	mikrofalówka	BG1_U4_L2	Gotowanie	0
+408	oven	piec	BG1_U4_L2	Gotowanie	0
+409	pinch	szczypta	BG1_U4_L2	Gotowanie	0
+410	teaspoon	mała łyżeczka	BG1_U4_L2	Gotowanie	0
+411	add	dodać	BG1_U4_L2	Słownictwo ogólne	0
+412	adventure	przygoda	BG1_U4_L2	Słownictwo ogólne	0
+413	bigger	większe	BG1_U4_L2	Słownictwo ogólne	0
+414	larger	większe	BG1_U4_L2	Słownictwo ogólne	0
+415	piece	kawałek	BG1_U4_L2	Słownictwo ogólne	0
+416	put	położyć	BG1_U4_L2	Słownictwo ogólne	0
+417	sharper	ostrzejsze	BG1_U4_L2	Słownictwo ogólne	0
+418	that	tamto, tamten, tamta	BG1_U4_L2	Słownictwo ogólne	0
+419	this	to, ta, ten	BG1_U4_L2	Słownictwo ogólne	0
+420	touch	dotykać	BG1_U4_L2	Słownictwo ogólne	0
+421	use	używać	BG1_U4_L2	Słownictwo ogólne	0
+422	a lot of	dużo	BG1_U4_L3	Słownictwo ogólne	0
+423	bad idea	zły pomysł	BG1_U4_L3	Słownictwo ogólne	0
+424	buy	kupić	BG1_U4_L3	Słownictwo ogólne	0
+425	cash machine	bankomat	BG1_U4_L3	Słownictwo ogólne	0
+426	do the shopping	zrobić zakupy	BG1_U4_L3	Słownictwo ogólne	0
+427	guess	zgadnąć	BG1_U4_L3	Słownictwo ogólne	0
+428	imagination	wyobraźnia	BG1_U4_L3	Słownictwo ogólne	0
+429	lots of	dużo	BG1_U4_L3	Słownictwo ogólne	0
+430	make a shopping list	zrobić listę zakupów	BG1_U4_L3	Słownictwo ogólne	0
+431	meal	danie	BG1_U4_L3	Słownictwo ogólne	0
+432	of course	oczywiście	BG1_U4_L3	Słownictwo ogólne	0
+433	on the Internet	w Internecie	BG1_U4_L3	Słownictwo ogólne	0
+434	order	zamówić	BG1_U4_L3	Słownictwo ogólne	0
+435	plenty of	dużo	BG1_U4_L3	Słownictwo ogólne	0
+436	take out	wyciągnąć	BG1_U4_L3	Słownictwo ogólne	0
+437	seafood	owoce morza	BG1_U4_L3	Słownictwo ogólne	0
+438	sell	sprzedać	BG1_U4_L3	Słownictwo ogólne	0
+439	shop for	kupować coś	BG1_U4_L3	Słownictwo ogólne	0
+440	stall	stragan	BG1_U4_L3	Słownictwo ogólne	0
+441	why	dlaczego	BG1_U4_L3	Słownictwo ogólne	0
+442	celery	seler	BG1_U4_L4	Praca	0
+443	coins	monety	BG1_U4_L4	Praca	0
+444	cost	kosztować	BG1_U4_L4	Praca	0
+445	count	liczyć	BG1_U4_L4	Praca	0
+446	customer	klient	BG1_U4_L4	Praca	0
+447	discount	zniżka	BG1_U4_L4	Praca	0
+448	equal	równać się	BG1_U4_L4	Praca	0
+449	fridge	lodówka	BG1_U4_L4	Praca	0
+450	healthy food	zdrowa żywność	BG1_U4_L4	Praca	0
+451	Here you are.	Proszę bardzo.	BG1_U4_L4	Praca	0
+452	Here you go.	Proszę bardzo.	BG1_U4_L4	Praca	0
+453	notes	banknoty	BG1_U4_L4	Praca	0
+454	pence	pensy	BG1_U4_L4	Praca	0
+455	pounds	funty	BG1_U4_L4	Praca	0
+456	profi t	zyski	BG1_U4_L4	Praca	0
+457	stall	stragan	BG1_U4_L4	Praca	0
+458	There you go.	Proszę bardzo.	BG1_U4_L4	Praca	0
+459	total	suma	BG1_U4_L4	Praca	0
+460	by	przez	BG1_U5_L1	Słownictwo ogólne	0
+461	about	o	BG1_U5_L1	Słownictwo ogólne	0
+462	across	po drugiej stronie	BG1_U5_L1	Słownictwo ogólne	0
+463	balloon	balon	BG1_U5_L1	Słownictwo ogólne	0
+464	behind	za	BG1_U5_L1	Słownictwo ogólne	0
+465	between	pomiędzy	BG1_U5_L1	Słownictwo ogólne	0
+466	birthday cake	tort urodzinowy	BG1_U5_L1	Słownictwo ogólne	0
+467	candle	świeczka	BG1_U5_L1	Słownictwo ogólne	0
+468	elderly	starszy	BG1_U5_L1	Słownictwo ogólne	0
+469	for	dla, na	BG1_U5_L1	Słownictwo ogólne	0
+470	forget	zapominać	BG1_U5_L1	Słownictwo ogólne	0
+471	gift	prezent	BG1_U5_L1	Słownictwo ogólne	0
+472	guess	zgadywać	BG1_U5_L1	Słownictwo ogólne	0
+473	guest	gość	BG1_U5_L1	Słownictwo ogólne	0
+474	idea	pomysł	BG1_U5_L1	Słownictwo ogólne	0
+475	in front of	przed	BG1_U5_L1	Słownictwo ogólne	0
+476	invitation	zaproszenie	BG1_U5_L1	Słownictwo ogólne	0
+477	invite	zapraszać	BG1_U5_L1	Słownictwo ogólne	0
+478	like	jak	BG1_U5_L1	Słownictwo ogólne	0
+479	nearly	prawie, niemalże	BG1_U5_L1	Słownictwo ogólne	0
+480	next to	obok	BG1_U5_L1	Słownictwo ogólne	0
+481	of	(oznacza relację kogo? czego?)	BG1_U5_L1	Słownictwo ogólne	0
+482	opposite	naprzeciwko	BG1_U5_L1	Słownictwo ogólne	0
+483	party	przyjęcie, impreza	BG1_U5_L1	Słownictwo ogólne	0
+484	present	prezent	BG1_U5_L1	Słownictwo ogólne	0
+485	send	wysyłać	BG1_U5_L1	Słownictwo ogólne	0
+486	sociable	towarzyski	BG1_U5_L1	Słownictwo ogólne	0
+487	stamp	znaczek	BG1_U5_L1	Słownictwo ogólne	0
+488	surprise	niespodzianka	BG1_U5_L1	Słownictwo ogólne	0
+489	anniversary	rocznica	BG1_U5_L2	Słownictwo ogólne	0
+490	attend	uczestniczyć	BG1_U5_L2	Słownictwo ogólne	0
+491	bring	przynosić, przyprowadzać	BG1_U5_L2	Słownictwo ogólne	0
+492	catch-up	nadrabianie zaległości	BG1_U5_L2	Słownictwo ogólne	0
+493	congratulations	gratulacje	BG1_U5_L2	Słownictwo ogólne	0
+494	engagement	zaręczyny	BG1_U5_L2	Słownictwo ogólne	0
+495	graduation	ukończenie szkoły	BG1_U5_L2	Słownictwo ogólne	0
+496	joke	żart	BG1_U5_L2	Słownictwo ogólne	0
+497	join	dołączyć	BG1_U5_L2	Słownictwo ogólne	0
+498	last	ostatni	BG1_U5_L2	Słownictwo ogólne	0
+499	lovely	cudowny	BG1_U5_L2	Słownictwo ogólne	0
+500	occasion	okazja	BG1_U5_L2	Słownictwo ogólne	0
+501	odds	szanse	BG1_U5_L2	Słownictwo ogólne	0
+502	quick	szybki	BG1_U5_L2	Słownictwo ogólne	0
+503	wedding	ślub	BG1_U5_L2	Słownictwo ogólne	0
+504	wishes	życzenia	BG1_U5_L2	Słownictwo ogólne	0
+505	wonderful	cudowny, wspaniały	BG1_U5_L2	Słownictwo ogólne	0
+506	ability	umiejętność	BG1_U5_L3	Słownictwo ogólne	0
+507	beautifully	pięknie	BG1_U5_L3	Słownictwo ogólne	0
+508	be good at something	być w czymś dobrym	BG1_U5_L3	Słownictwo ogólne	0
+509	classes	zajęcia, lekcje	BG1_U5_L3	Słownictwo ogólne	0
+510	equal	równy	BG1_U5_L3	Słownictwo ogólne	0
+511	even out	wyrównywać	BG1_U5_L3	Słownictwo ogólne	0
+512	exercise	ćwiczyć	BG1_U5_L3	Słownictwo ogólne	0
+513	forget	zapominać	BG1_U5_L3	Słownictwo ogólne	0
+514	improve	polepszać	BG1_U5_L3	Słownictwo ogólne	0
+515	make a mistake	zrobić błąd	BG1_U5_L3	Słownictwo ogólne	0
+516	practise	ćwiczyć	BG1_U5_L3	Słownictwo ogólne	0
+517	struggle	mieć trudności	BG1_U5_L3	Słownictwo ogólne	0
+518	well	dobrze	BG1_U5_L3	Słownictwo ogólne	0
+519	accept	akceptować	BG1_U5_L4	Słownictwo ogólne	0
+520	advertisement	ogłoszenie	BG1_U5_L4	Słownictwo ogólne	0
+521	application	aplikacja, podanie	BG1_U5_L4	Słownictwo ogólne	0
+522	apply	aplikować	BG1_U5_L4	Słownictwo ogólne	0
+523	at times	czasami	BG1_U5_L4	Słownictwo ogólne	0
+524	boring	nudny	BG1_U5_L4	Słownictwo ogólne	0
+525	degree in	tytuł naukowy z	BG1_U5_L4	Słownictwo ogólne	0
+526	diary	dziennik	BG1_U5_L4	Słownictwo ogólne	0
+527	diffi cult	trudny	BG1_U5_L4	Słownictwo ogólne	0
+528	dream	marzenie	BG1_U5_L4	Słownictwo ogólne	0
+529	easy	łatwy	BG1_U5_L4	Słownictwo ogólne	0
+530	exciting	ekscytujący	BG1_U5_L4	Słownictwo ogólne	0
+531	eye-opening	pouczający, otwierający oczy	BG1_U5_L4	Słownictwo ogólne	0
+532	fi nish	kończyć	BG1_U5_L4	Słownictwo ogólne	0
+533	get	dostać	BG1_U5_L4	Słownictwo ogólne	0
+534	give	dać	BG1_U5_L4	Słownictwo ogólne	0
+535	graduate	kończyć szkołę	BG1_U5_L4	Słownictwo ogólne	0
+536	interview	wywiad, rozmowa kwalifi kacyjna	BG1_U5_L4	Słownictwo ogólne	0
+537	job	praca	BG1_U5_L4	Słownictwo ogólne	0
+538			BG2_U1_L1		0
+539					0
+540					0
+541					0
+542					0
+543					0
+544					0
+545					0
+546					0
+547					0
+548					0
+549					0
+550					0
+551					0
+552					0
+553					0
+554					0
+555					0
+556					0
+557					0
+558					0
+559					0
+560					0
+561					0
+562					0
+563					0
+564					0
+565					0
+566					0
+567					0
+568					0
+569					0
+570					0
+571					0
+572					0
+573					0
+574					0
+575					0
+576					0
+577					0
+578					0
+579					0
+580					0
+581					0
+582					0
+583					0
+584					0
+585					0
+586					0
+587					0
+588					0
+589					0
+590					0
+591					0
+592					0
+593					0
+594					0
+595					0
+596					0
+597					0
+598					0
+599					0
+600					0
+601					0
+602					0
+603					0
+604					0
+605					0
+606					0
+607					0
+608					0
+609					0
+610					0
+611					0
+612					0
+613					0
+614					0
+615					0
+616					0
+617					0
+618					0
+619					0
+620					0
+621					0
+622					0
+623					0
+624					0
+625					0
+626					0
+627					0
+628					0
+629					0
+630					0
+631					0
+632					0
+633					0
+634					0
+635					0
