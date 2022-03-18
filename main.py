@@ -24,7 +24,7 @@ def check_white_space():  # Funkcja do sprawadzania białych zanków w pliku baz
             print(f'{record[0]}  --{record[1]}--')
 
 
-def words_to_download_audio():
+def words_to_download_audio():  # Funkcja sprawdza do których słowek nie ma pliku audio
     wordsIn = []
     wordsToDown = []
     for item in os.listdir('.\\audio'):
@@ -33,8 +33,10 @@ def words_to_download_audio():
     for word in get_words_list():
         if word not in wordsIn:
             wordsToDown.append(word)
-
     return wordsToDown
 
 
-print(words_to_download_audio())
+# print(words_to_download_audio())
+
+for chrupek in words_to_download_audio():
+    print(chrupek)
