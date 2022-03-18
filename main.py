@@ -1,3 +1,6 @@
+import os
+
+
 def read_data():  # Funkcja do odczytu plików .tsv
     with open('input\Słówka - Arkusz1.tsv', 'r', encoding='UTF-8') as file:
         words = file.read().splitlines()
@@ -16,11 +19,22 @@ def get_words_list():  # Funkcja do wygenerowania listy angielskich słówek
 
 
 def check_white_space():  # Funkcja do sprawadzania białych zanków w pliku bazowym
-    for i in read_data():
-        if i[1].endswith(' ') or i[1].startswith(' '):
-            print(f'{i[0]}  --{i[1]}--')
+    for record in read_data():
+        if record[1].endswith(' ') or record[1].startswith(' '):
+            print(f'{record[0]}  --{record[1]}--')
 
 
-# check_white_space()
-#print(f'Dane po odczycie z pliku: {read_data()}')
-print(f'Lista słowek dla Chrupka: {get_words_list()}')
+def words_to_download_audio():
+    wordsIn = []
+    wordsToDown = []
+    for item in os.listdir('.\\audio'):
+        wordsIn.append(item[:-4])
+
+    for word in get_words_list():
+        if word not in wordsIn:
+            wordsToDown.append(word)
+
+    return wordsToDown
+
+
+print(words_to_download_audio())
