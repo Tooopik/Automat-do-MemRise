@@ -1,4 +1,3 @@
-from ast import IsNot
 import time
 import os
 import urllib.request
@@ -52,5 +51,5 @@ for word in words_to_download_audio():
         print(f'Download - OK: {word}')
 
 if len(wordError) > 0:
-    print(f'Błędy przy pobieraniu {len(wordError)} słów')
+    print(f'Błędy przy pobieraniu: {len(wordError)} słów')
     print(wordError)
