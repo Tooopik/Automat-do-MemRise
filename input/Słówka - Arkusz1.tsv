@@ -125,7 +125,7 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 124	quite	całkiem, dość	BG1_U1_L3	Słownictwo ogólne	0
 125	rich	bogaty	BG1_U1_L3	Słownictwo ogólne	0
 126	rubber	guma, gumka	BG1_U1_L3	Słownictwo ogólne	0
-127	Shall I ....?	Czy mam ...?	BG1_U1_L3	Słownictwo ogólne	0
+127	Shall I	Czy mam ...?	BG1_U1_L3	Słownictwo ogólne	0
 128	silver	srebro	BG1_U1_L3	Słownictwo ogólne	0
 129	small	mały	BG1_U1_L3	Słownictwo ogólne	0
 130	something	coś	BG1_U1_L3	Słownictwo ogólne	0
@@ -536,101 +536,473 @@ NO.	ANG	POL	book_unit_lesson	part_of_speech	audio
 535	graduate	kończyć szkołę	BG1_U5_L4	Słownictwo ogólne	0
 536	interview	wywiad, rozmowa kwalifikacyjna	BG1_U5_L4	Słownictwo ogólne	0
 537	job	praca	BG1_U5_L4	Słownictwo ogólne	0
-538			BG2_U1_L1		0
-539					0
-540					0
-541					0
-542					0
-543					0
-544					0
-545					0
-546					0
-547					0
-548					0
-549					0
-550					0
-551					0
-552					0
-553					0
-554					0
-555					0
-556					0
-557					0
-558					0
-559					0
-560					0
-561					0
-562					0
-563					0
-564					0
-565					0
-566					0
-567					0
-568					0
-569					0
-570					0
-571					0
-572					0
-573					0
-574					0
-575					0
-576					0
-577					0
-578					0
-579					0
-580					0
-581					0
-582					0
-583					0
-584					0
-585					0
-586					0
-587					0
-588					0
-589					0
-590					0
-591					0
-592					0
-593					0
-594					0
-595					0
-596					0
-597					0
-598					0
-599					0
-600					0
-601					0
-602					0
-603					0
-604					0
-605					0
-606					0
-607					0
-608					0
-609					0
-610					0
-611					0
-612					0
-613					0
-614					0
-615					0
-616					0
-617					0
-618					0
-619					0
-620					0
-621					0
-622					0
-623					0
-624					0
-625					0
-626					0
-627					0
-628					0
-629					0
-630					0
-631					0
-632					0
-633					0
-634					0
-635					0
+538	break up	rozstać się	BG2_U1_L1	Słownictwo ogólne	0
+539	cigarette	papieros	BG2_U1_L1	Słownictwo ogólne	0
+540	difficult	trudne	BG2_U1_L1	Słownictwo ogólne	0
+541	eco-friendly	przyjazne dla środowiska	BG2_U1_L1	Słownictwo ogólne	0
+542	find a job	znaleźć pracę	BG2_U1_L1	Słownictwo ogólne	0
+543	guess	zgadywać	BG2_U1_L1	Słownictwo ogólne	0
+544	guy	facet	BG2_U1_L1	Słownictwo ogólne	0
+545	guys	ludzie	BG2_U1_L1	Słownictwo ogólne	0
+546	gym	siłownia	BG2_U1_L1	Słownictwo ogólne	0
+547	hard	twarde / trudne	BG2_U1_L1	Słownictwo ogólne	0
+548	hate	nienawidzić	BG2_U1_L1	Słownictwo ogólne	0
+549	healthy	zdrowy	BG2_U1_L1	Słownictwo ogólne	0
+550	junk food	śmieciowe jedzenie	BG2_U1_L1	Słownictwo ogólne	0
+551	lazy	leniwy	BG2_U1_L1	Słownictwo ogólne	0
+552	lose weight	stracić na wadze	BG2_U1_L1	Słownictwo ogólne	0
+553	move	ruszać się / przeprowadzić się	BG2_U1_L1	Słownictwo ogólne	0
+554	New Year's resolution	postanowienie noworoczne	BG2_U1_L1	Słownictwo ogólne	0
+555	paperwork	papierkowa robota	BG2_U1_L1	Słownictwo ogólne	0
+556	quit	rzucać	BG2_U1_L1	Słownictwo ogólne	0
+557	save money	oszczędzać pieniądze	BG2_U1_L1	Słownictwo ogólne	0
+558	sociable	towarzyski	BG2_U1_L1	Słownictwo ogólne	0
+559	spend money	wydawać pieniądze	BG2_U1_L1	Słownictwo ogólne	0
+560	suppose	przypuszczać	BG2_U1_L1	Słownictwo ogólne	0
+561	sweets	słodycze	BG2_U1_L1	Słownictwo ogólne	0
+562	love of my life	miłość mojego życia	BG2_U1_L1	Słownictwo ogólne	0
+563	tired	zmęczony	BG2_U1_L1	Słownictwo ogólne	0
+564	tiring	męczący	BG2_U1_L1	Słownictwo ogólne	0
+565	unhealthy	niezdrowy	BG2_U1_L1	Słownictwo ogólne	0
+566	upset	rozzłoszczony	BG2_U1_L1	Słownictwo ogólne	0
+567	waste of time	strata czasu	BG2_U1_L1	Słownictwo ogólne	0
+568	water the plants	podlewać rośliny	BG2_U1_L1	Słownictwo ogólne	0
+569	good idea	dobry pomysł	BG2_U1_L2	Słownictwo ogólne	0
+570	as soon as possible	tak szybko jak to możliwe	BG2_U1_L2	Słownictwo ogólne	0
+571	birthday	urodziny	BG2_U1_L2	Słownictwo ogólne	0
+572	birthday party	przyjęcie urodzinowe	BG2_U1_L2	Słownictwo ogólne	0
+573	boyfriend	chłopak	BG2_U1_L2	Słownictwo ogólne	0
+574	colleague	kolega z pracy	BG2_U1_L2	Słownictwo ogólne	0
+575	come back	wracać	BG2_U1_L2	Słownictwo ogólne	0
+576	decide	zdecydować	BG2_U1_L2	Słownictwo ogólne	0
+577	dump	rzucić	BG2_U1_L2	Słownictwo ogólne	0
+578	enrol	zapisać się	BG2_U1_L2	Słownictwo ogólne	0
+579	fly	latać	BG2_U1_L2	Słownictwo ogólne	0
+580	future	przyszłość	BG2_U1_L2	Słownictwo ogólne	0
+581	go ahead	dalej	BG2_U1_L2	Słownictwo ogólne	0
+582	haircut	fryzura	BG2_U1_L2	Słownictwo ogólne	0
+583	have fun	bawić się	BG2_U1_L2	Słownictwo ogólne	0
+584	less	mniej	BG2_U1_L2	Słownictwo ogólne	0
+585	listen	posłuchaj	BG2_U1_L2	Słownictwo ogólne	0
+586	listen up	posłuchaj	BG2_U1_L2	Słownictwo ogólne	0
+587	man	stary	BG2_U1_L2	Słownictwo ogólne	0
+588	meeting	spotkanie	BG2_U1_L2	Słownictwo ogólne	0
+589	plan	plan	BG2_U1_L2	Słownictwo ogólne	0
+590	promise	obietnica	BG2_U1_L2	Słownictwo ogólne	0
+591	serious	poważny	BG2_U1_L2	Słownictwo ogólne	0
+592	should	powinieneś	BG2_U1_L2	Słownictwo ogólne	0
+593	sunbathe	opalać się	BG2_U1_L2	Słownictwo ogólne	0
+594	sure	pewny	BG2_U1_L2	Słownictwo ogólne	0
+595	take an exam	przystąpić do egzaminu	BG2_U1_L2	Słownictwo ogólne	0
+596	think positive	myśleć pozytywnie	BG2_U1_L2	Słownictwo ogólne	0
+597	upset	rozdrażniony	BG2_U1_L2	Słownictwo ogólne	0
+598	visit	odwiedzać	BG2_U1_L2	Słownictwo ogólne	0
+599	whole	cały	BG2_U1_L2	Słownictwo ogólne	0
+600	amazing	niesamowite	BG2_U1_L3	Słownictwo ogólne	0
+601	apartment	mieszkanie (U.S.)	BG2_U1_L3	Słownictwo ogólne	0
+602	argue	kłócić się	BG2_U1_L3	Słownictwo ogólne	0
+603	bad habit	złe nawyk	BG2_U1_L3	Słownictwo ogólne	0
+604	book	rezerwować	BG2_U1_L3	Słownictwo ogólne	0
+605	boss	szef	BG2_U1_L3	Słownictwo ogólne	0
+606	coffee shop	kawiarnia	BG2_U1_L3	Słownictwo ogólne	0
+607	cottage	chata / domek na wsi	BG2_U1_L3	Słownictwo ogólne	0
+608	dye	farbować	BG2_U1_L3	Słownictwo ogólne	0
+609	flat	mieszkanie (U.K.)	BG2_U1_L3	Słownictwo ogólne	0
+610	get drunk	upić się	BG2_U1_L3	Słownictwo ogólne	0
+611	give up	rzucać	BG2_U1_L3	Słownictwo ogólne	0
+612	should	powinieneś	BG2_U1_L3	Słownictwo ogólne	0
+613	snack	przekąska	BG2_U1_L3	Słownictwo ogólne	0
+614	store	sklep	BG2_U1_L3	Słownictwo ogólne	0
+615	take up	rozpocząć	BG2_U1_L3	Słownictwo ogólne	0
+616	the country	wieś	BG2_U1_L3	Słownictwo ogólne	0
+617	the seaside	wybrzeże	BG2_U1_L3	Słownictwo ogólne	0
+618	amazing	niesamowity	BG2_U1_L4	Słownictwo ogólne	0
+619	angry	zły	BG2_U1_L4	Słownictwo ogólne	0
+620	argue	kłócić się	BG2_U1_L4	Słownictwo ogólne	0
+621	ask somebody out	zaprosić kogoś na randkę	BG2_U1_L4	Słownictwo ogólne	0
+622	attractive	atrakcyjny	BG2_U1_L4	Słownictwo ogólne	0
+623	believe	wierzyć	BG2_U1_L4	Słownictwo ogólne	0
+624	bored	znudzony	BG2_U1_L4	Słownictwo ogólne	0
+625	break	przerwa	BG2_U1_L4	Słownictwo ogólne	0
+626	change one's wardrobe	wymieniać garderobę	BG2_U1_L4	Słownictwo ogólne	0
+627	date	randka	BG2_U1_L4	Słownictwo ogólne	0
+628	ex-boyfriend	były chłopak	BG2_U1_L4	Słownictwo ogólne	0
+629	excited	podekscytowany	BG2_U1_L4	Słownictwo ogólne	0
+630	fitness trainer	trener fitness	BG2_U1_L4	Słownictwo ogólne	0
+631	forget	zapominać	BG2_U1_L4	Słownictwo ogólne	0
+632	get back together	wracać do siebie	BG2_U1_L4	Słownictwo ogólne	0
+633	hairdo	fryzura, uczesanie	BG2_U1_L4	Słownictwo ogólne	0
+634	handsome	przystojny	BG2_U1_L4	Słownictwo ogólne	0
+635	have a conversation	rozmawiać	BG2_U1_L4	Słownictwo ogólne	0
+636	impossible	niemożliwy	BG2_U1_L4	Słownictwo ogólne	0
+637	impressed	pod wrażeniem	BG2_U1_L4	Słownictwo ogólne	0
+638	personal changes	osobiste zmiany	BG2_U1_L4	Słownictwo ogólne	0
+639	personal stylist	osobisty stylista	BG2_U1_L4	Słownictwo ogólne	0
+640	relaxed	zrelaksowany	BG2_U1_L4	Słownictwo ogólne	0
+641	self-improvement	ulepszanie siebie	BG2_U1_L4	Słownictwo ogólne	0
+642	shocked	zszokowany	BG2_U1_L4	Słownictwo ogólne	0
+643	shout	krzyczeć	BG2_U1_L4	Słownictwo ogólne	0
+644	tired	zmęczony	BG2_U1_L4	Słownictwo ogólne	0
+645	website	strona internetowa	BG2_U1_L4	Słownictwo ogólne	0
+646	answer the phone	odebrać telefon	BG2_U2_L1	Rozmowy telefoniczne	0
+647	available	dostępny, osiągalny	BG2_U2_L1	Rozmowy telefoniczne	0
+648	appointment	spotkanie, wizyta	BG2_U2_L1	Rozmowy telefoniczne	0
+649	call somebody	dzwonić do kogoś	BG2_U2_L1	Rozmowy telefoniczne	0
+650	call back	oddzwonić	BG2_U2_L1	Rozmowy telefoniczne	0
+651	dial a number	wykręcić numer	BG2_U2_L1	Rozmowy telefoniczne	0
+652	directory	książka telefoniczna	BG2_U2_L1	Rozmowy telefoniczne	0
+653	hold	czekać	BG2_U2_L1	Rozmowy telefoniczne	0
+654	leave a message	zostawić wiadomość	BG2_U2_L1	Rozmowy telefoniczne	0
+655	make sure	upewnić się	BG2_U2_L1	Rozmowy telefoniczne	0
+656	pick up the phone	odebrać telefon	BG2_U2_L1	Rozmowy telefoniczne	0
+657	put somebody through	przełączyć kogoś	BG2_U2_L1	Rozmowy telefoniczne	0
+658	slow down	zwolnić	BG2_U2_L1	Rozmowy telefoniczne	0
+659	speak up	mówić głośniej	BG2_U2_L1	Rozmowy telefoniczne	0
+660	take a message	przyjąć wiadomość	BG2_U2_L1	Rozmowy telefoniczne	0
+661	have fun	dobrze się bawić	BG2_U2_L1	Słownictwo ogólne	0
+662	I guess	sądzę, przypuszczam	BG2_U2_L1	Słownictwo ogólne	0
+663	I'm afraid	 obawiam się, że	BG2_U2_L1	Słownictwo ogólne	0
+664	toothache	ból zęba	BG2_U2_L1	Słownictwo ogólne	0
+665	beautician	kosmetyczka (zawód)	BG2_U2_L2	Słownictwo ogólne	0
+666	both	oboje, obie, obydwa	BG2_U2_L2	Słownictwo ogólne	0
+667	carpenter	stolarz	BG2_U2_L2	Słownictwo ogólne	0
+668	have a degree in	mieć dyplom z...	BG2_U2_L2	Słownictwo ogólne	0
+669	lazy	leniwy	BG2_U2_L2	Słownictwo ogólne	0
+670	sort	rodzaj	BG2_U2_L2	Słownictwo ogólne	0
+671	workplace	miejsce pracy	BG2_U2_L2	Słownictwo ogólne	0
+672	addition	dodawanie	BG2_U2_L2	Działania matematyczne	0
+673	decimal fraction	ułamek dziesiętny	BG2_U2_L2	Działania matematyczne	0
+674	divided by	podzielone przez	BG2_U2_L2	Działania matematyczne	0
+675	division	dzielenie	BG2_U2_L2	Działania matematyczne	0
+676	equal	równać się	BG2_U2_L2	Działania matematyczne	0
+677	fraction	ułamek	BG2_U2_L2	Działania matematyczne	0
+678	less than	mniej niż	BG2_U2_L2	Działania matematyczne	0
+679	minus	minus, odjąć	BG2_U2_L2	Działania matematyczne	0
+680	more than	większy niż	BG2_U2_L2	Działania matematyczne	0
+681	multiplication	mnożenie	BG2_U2_L2	Działania matematyczne	0
+682	subtraction	odejmowanie	BG2_U2_L2	Działania matematyczne	0
+683	times	pomnożone przez	BG2_U2_L2	Działania matematyczne	0
+684	be bad at something	być kiepskim w czymś	BG2_U2_L2	Cechy, umiejętności	0
+685	be good at	być dobrym w	BG2_U2_L2	Cechy, umiejętności	0
+686	communication skills	umiejętności komunikacyjne, komunikatywność	BG2_U2_L2	Cechy, umiejętności	0
+687	be a good listener	byc dobrym słuchaczem	BG2_U2_L2	Cechy, umiejętności	0
+688	hardworking	pracowity	BG2_U2_L2	Cechy, umiejętności	0
+689	punctual	punktualny	BG2_U2_L2	Cechy, umiejętności	0
+690	reliable	godny zaufania, taki, na którym można polegać	BG2_U2_L2	Cechy, umiejętności	0
+691	teamwork	praca w zespole	BG2_U2_L2	Cechy, umiejętności	0
+692	work in a team	pracować w zespole	BG2_U2_L2	Cechy, umiejętności	0
+693	work on one's own	pracować samemu	BG2_U2_L2	Cechy, umiejętności	0
+694	as soon as possible	jak najszybciej / tak szybko, jak to możliwe	BG2_U2_L3	Umawianie spotkań	0
+695	busy	zajęty	BG2_U2_L3	Umawianie spotkań	0
+696	fully booked	w pełni zarezerwowany	BG2_U2_L3	Umawianie spotkań	0
+697	full medical check	pełne badania lekarskie	BG2_U2_L3	Umawianie spotkań	0
+698	if possible	jeśli to możliwe	BG2_U2_L3	Umawianie spotkań	0
+699	make an appointment	umówić wizytę	BG2_U2_L3	Umawianie spotkań	0
+700	write down	zapisać	BG2_U2_L3	Umawianie spotkań	0
+701	We look forward to seeing you	Z niecierpliwością czekamy na kolejne spotkanie	BG2_U2_L3	Umawianie spotkań	0
+702	apply for a job	ubiegać się o pracę	BG2_U2_L4	Praca	0
+703	day shift	dzienna zmiana	BG2_U2_L4	Praca	0
+704	employ	zatrudniać	BG2_U2_L4	Praca	0
+705	get a job	dostać pracę	BG2_U2_L4	Praca	0
+706	look for a job	szukać pracy	BG2_U2_L4	Praca	0
+707	manual work	praca ręczna / fizyczna	BG2_U2_L4	Praca	0
+708	night shift	nocna zmiana	BG2_U2_L4	Praca	0
+709	office work	praca biurowa	BG2_U2_L4	Praca	0
+710	position	pozycja, stanowisko	BG2_U2_L4	Praca	0
+711	run a business	prowadzić biznes	BG2_U2_L4	Praca	0
+712	salary	pensja	BG2_U2_L4	Praca	0
+713	staff	personel	BG2_U2_L4	Praca	0
+714	almost	prawie	BG2_U2_L4	Słownictwo ogólne	0
+715	cool	świetnie	BG2_U2_L4	Słownictwo ogólne	0
+716	how far	jak daleko ...?	BG2_U2_L4	Słownictwo ogólne	0
+717	how fast	jak szybko ...?	BG2_U2_L4	Słownictwo ogólne	0
+718	how much is it	ile to kosztuje?	BG2_U2_L4	Słownictwo ogólne	0
+719	how old	w jakim wieku ...?	BG2_U2_L4	Słownictwo ogólne	0
+720	kph	kilometrów na godzinę	BG2_U2_L4	Słownictwo ogólne	0
+721	mph	mil na godzinę	BG2_U2_L4	Słownictwo ogólne	0
+722	pay by card	płacić kartą	BG2_U2_L4	Słownictwo ogólne	0
+723	pay by cash	płacić gotówką	BG2_U2_L4	Słownictwo ogólne	0
+724	per kilo	za kilogram	BG2_U2_L4	Słownictwo ogólne	0
+725	range	wahać się	BG2_U2_L4	Słownictwo ogólne	0
+726	backpacking	podróżowanie z plecakiem	BG2_U3_L1	Wakacje	0
+727	cruise	rejs	BG2_U3_L1	Wakacje	0
+728	destination	cel podróży	BG2_U3_L1	Wakacje	0
+729	hiking	piesza wędrówka	BG2_U3_L1	Wakacje	0
+730	package tour	zorganizowana wycieczka	BG2_U3_L1	Wakacje	0
+731	spend holiday	spędzać wakacje	BG2_U3_L1	Wakacje	0
+732	stay	zostać	BG2_U3_L1	Wakacje	0
+733	amazing	niesamowity	BG2_U3_L1	Słownictwo ogólne	0
+734	anniversary	rocznica	BG2_U3_L1	Słownictwo ogólne	0
+735	boring	nudny	BG2_U3_L1	Słownictwo ogólne	0
+736	dangerous	niebezpieczny	BG2_U3_L1	Słownictwo ogólne	0
+737	entertaining	dostarczający rozrywki	BG2_U3_L1	Słownictwo ogólne	0
+738	excited	podekscytowany	BG2_U3_L1	Słownictwo ogólne	0
+739	exciting	ekscytujący	BG2_U3_L1	Słownictwo ogólne	0
+740	fun	dobra zabawa	BG2_U3_L1	Słownictwo ogólne	0
+741	generation gap	różnica pokoleniowa	BG2_U3_L1	Słownictwo ogólne	0
+742	interesting	interesujący	BG2_U3_L1	Słownictwo ogólne	0
+743	island	wyspa	BG2_U3_L1	Słownictwo ogólne	0
+744	make a decision	podjąć decyzję	BG2_U3_L1	Słownictwo ogólne	0
+745	ship	statek	BG2_U3_L1	Słownictwo ogólne	0
+746	calm	spokojny	BG2_U3_L2	Opisywanie osób	0
+747	confident	pewny siebie	BG2_U3_L2	Opisywanie osób	0
+748	crazy	szalony	BG2_U3_L2	Opisywanie osób	0
+749	fit	wysportowany	BG2_U3_L2	Opisywanie osób	0
+750	handsome	przystojny	BG2_U3_L2	Opisywanie osób	0
+751	personality	osobowość	BG2_U3_L2	Opisywanie osób	0
+752	pretty	ładny	BG2_U3_L2	Opisywanie osób	0
+753	shy	nieśmiały	BG2_U3_L2	Opisywanie osób	0
+754	strong	silny	BG2_U3_L2	Opisywanie osób	0
+755	thin	szczupły	BG2_U3_L2	Opisywanie osób	0
+756	ugly	brzydki	BG2_U3_L2	Opisywanie osób	0
+757	wrinkle	zmarszczka	BG2_U3_L2	Opisywanie osób	0
+758	change	zmieniać	BG2_U3_L2	Słownictwo ogólne	0
+759	convenient	dogodny	BG2_U3_L2	Słownictwo ogólne	0
+760	different	inny	BG2_U3_L2	Słownictwo ogólne	0
+761	embarrassing	żenujący	BG2_U3_L2	Słownictwo ogólne	0
+762	game show	konkurs	BG2_U3_L2	Słownictwo ogólne	0
+763	peace and quiet	spokój i cisza	BG2_U3_L2	Słownictwo ogólne	0
+764	past	przeszły	BG2_U3_L2	Słownictwo ogólne	0
+765	similar	podobny	BG2_U3_L2	Słownictwo ogólne	0
+766	at first sight	od pierwszego wejrzenia	BG2_U3_L3	Słownictwo ogólne	0
+767	celebrate	świętować	BG2_U3_L3	Słownictwo ogólne	0
+768	contestant	uczestnik	BG2_U3_L3	Słownictwo ogólne	0
+769	date	randka	BG2_U3_L3	Słownictwo ogólne	0
+770	excellent	doskonały	BG2_U3_L3	Słownictwo ogólne	0
+771	fall in love	zakochać się	BG2_U3_L3	Słownictwo ogólne	0
+772	favourite	ulubiony	BG2_U3_L3	Słownictwo ogólne	0
+773	find out	dowiedzieć się	BG2_U3_L3	Słownictwo ogólne	0
+774	honeymoon	miesiąc miodowy	BG2_U3_L3	Słownictwo ogólne	0
+775	innocent	niewinny	BG2_U3_L3	Słownictwo ogólne	0
+776	personal	osobisty	BG2_U3_L3	Słownictwo ogólne	0
+777	point	punkt	BG2_U3_L3	Słownictwo ogólne	0
+778	audience	publiczność	BG2_U3_L4	Słownictwo ogólne	0
+779	brave	dzielny	BG2_U3_L4	Słownictwo ogólne	0
+780	competition	zawody, konkurs	BG2_U3_L4	Słownictwo ogólne	0
+781	fun	dobra zabawa	BG2_U3_L4	Słownictwo ogólne	0
+782	funny	zabawny	BG2_U3_L4	Słownictwo ogólne	0
+783	get into trouble	wpaść w kłopoty	BG2_U3_L4	Słownictwo ogólne	0
+784	impressed	pod wrażeniem	BG2_U3_L4	Słownictwo ogólne	0
+785	lion tamer	poskramiacz lwów	BG2_U3_L4	Słownictwo ogólne	0
+786	naked	nagi	BG2_U3_L4	Słownictwo ogólne	0
+787	skinny	chudy, kościsty	BG2_U3_L4	Słownictwo ogólne	0
+788	sword	miecz	BG2_U3_L4	Słownictwo ogólne	0
+789	wild	dziki, szalony	BG2_U3_L4	Słownictwo ogólne	0
+790	wise	mądry	BG2_U3_L4	Słownictwo ogólne	0
+791	accommodation	zakwaterowanie	BG2_U4_L1	Wakacje	0
+792	active holiday	aktywne wakacje	BG2_U4_L1	Wakacje	0
+793	art gallery	galeria sztuki	BG2_U4_L1	Wakacje	0
+794	backpacking	wędrówka z plecakiem	BG2_U4_L1	Wakacje	0
+795	beach holiday	wakacje na plaży	BG2_U4_L1	Wakacje	0
+796	big waves	duże fale	BG2_U4_L1	Wakacje	0
+797	camping	biwakowanie	BG2_U4_L1	Wakacje	0
+798	campsite	pole namiotowe	BG2_U4_L1	Wakacje	0
+799	check in	zameldować się	BG2_U4_L1	Wakacje	0
+800	city break	wakacje w mieście	BG2_U4_L1	Wakacje	0
+801	cosmopolitan	kosmopolityczny	BG2_U4_L1	Wakacje	0
+802	destination	cel (podróży)	BG2_U4_L1	Wakacje	0
+803	forest	las	BG2_U4_L1	Wakacje	0
+804	hotel	hotel	BG2_U4_L1	Wakacje	0
+805	monument	zabytek / pomnik	BG2_U4_L1	Wakacje	0
+806	museum	muzeum	BG2_U4_L1	Wakacje	0
+807	passport	paszport	BG2_U4_L1	Wakacje	0
+808	peace and quiet	cisza i spokój	BG2_U4_L1	Wakacje	0
+809	plane ticket	bilet lotniczy	BG2_U4_L1	Wakacje	0
+810	resort	kurort	BG2_U4_L1	Wakacje	0
+811	restaurant	restauracja	BG2_U4_L1	Wakacje	0
+812	sandy	piaszczyste	BG2_U4_L1	Wakacje	0
+813	sightseeing	zwiedzanie	BG2_U4_L1	Wakacje	0
+814	sleeping bag	śpiwór	BG2_U4_L1	Wakacje	0
+815	souvenir	pamiątka	BG2_U4_L1	Wakacje	0
+816	sunbathing	opalanie	BG2_U4_L1	Wakacje	0
+817	sun cream	krem przeciwsłoneczny	BG2_U4_L1	Wakacje	0
+818	tent	namiot	BG2_U4_L1	Wakacje	0
+819	torch	latarka	BG2_U4_L1	Wakacje	0
+820	turn down	ściszyć	BG2_U4_L1	Wakacje	0
+821	art gallery	galeria sztuki	BG2_U4_L2	Wakacje w mieście	0
+822	ancient	starożytny	BG2_U4_L2	Wakacje w mieście	0
+823	bustling	tętniący życiem	BG2_U4_L2	Wakacje w mieście	0
+824	cathedral	katedra	BG2_U4_L2	Wakacje w mieście	0
+825	church	kościół	BG2_U4_L2	Wakacje w mieście	0
+826	cosmopolitan	kosmopolityczny	BG2_U4_L2	Wakacje w mieście	0
+827	crowded	zatłoczony	BG2_U4_L2	Wakacje w mieście	0
+828	fountain	fontanna	BG2_U4_L2	Wakacje w mieście	0
+829	lively	pełen życia	BG2_U4_L2	Wakacje w mieście	0
+830	main square	główny plac / rynek	BG2_U4_L2	Wakacje w mieście	0
+831	modern	nowoczesny	BG2_U4_L2	Wakacje w mieście	0
+832	museum	muzeum	BG2_U4_L2	Wakacje w mieście	0
+833	monument	zabytek / pomnik	BG2_U4_L2	Wakacje w mieście	0
+834	picturesque	malowniczy	BG2_U4_L2	Wakacje w mieście	0
+835	polluted	zanieczyszczony	BG2_U4_L2	Wakacje w mieście	0
+836	shopping centre	centrum handlowe	BG2_U4_L2	Wakacje w mieście	0
+837	statue	pomnik	BG2_U4_L2	Wakacje w mieście	0
+838	stay at	zatrzymać się w	BG2_U4_L2	Wakacje w mieście	0
+839	think something through	przemyśleć	BG2_U4_L2	Wakacje w mieście	0
+840	touristy	nastawione na turystów (negatywne)	BG2_U4_L2	Wakacje w mieście	0
+841	visit to	wizyta w	BG2_U4_L2	Wakacje w mieście	0
+842	boiling hot	upalnie	BG2_U4_L3	Pogoda	0
+843	breeze	bryza	BG2_U4_L3	Pogoda	0
+844	chilly	chłodno	BG2_U4_L3	Pogoda	0
+845	cloud	chmura	BG2_U4_L3	Pogoda	0
+846	cloudy	pochmurno	BG2_U4_L3	Pogoda	0
+847	degrees Centigrade	stopnie Celsjusza	BG2_U4_L3	Pogoda	0
+848	dry	sucho	BG2_U4_L3	Pogoda	0
+849	fog	mgła	BG2_U4_L3	Pogoda	0
+850	foggy	mgliście	BG2_U4_L3	Pogoda	0
+851	freezing	mroźnie	BG2_U4_L3	Pogoda	0
+852	humid	wilgotno	BG2_U4_L3	Pogoda	0
+853	rain	deszcz	BG2_U4_L3	Pogoda	0
+854	rainy	deszczowo	BG2_U4_L3	Pogoda	0
+855	snow	śnieg	BG2_U4_L3	Pogoda	0
+856	snowy	śnieżnie	BG2_U4_L3	Pogoda	0
+857	storm	burza / sztorm	BG2_U4_L3	Pogoda	0
+858	sun	słońce	BG2_U4_L3	Pogoda	0
+859	sunny	słonecznie	BG2_U4_L3	Pogoda	0
+860	thunder and lightning	grzmot i błyskawica	BG2_U4_L3	Pogoda	0
+861	warm	ciepło	BG2_U4_L3	Pogoda	0
+862	weather forecast	prognoza pogody	BG2_U4_L3	Pogoda	0
+863	wet	mokro	BG2_U4_L3	Pogoda	0
+864	wind	wiatr	BG2_U4_L3	Pogoda	0
+865	windy	wietrznie	BG2_U4_L3	Pogoda	0
+866	double-decker	autobus piętrowy	BG2_U4_L3	Słownictwo ogólne	0
+867	invite over	zaprosić do	BG2_U4_L3	Słownictwo ogólne	0
+868	hitchhike	jechać autostopem	BG2_U4_L3	Słownictwo ogólne	0
+869	open-top	bez dachu	BG2_U4_L3	Słownictwo ogólne	0
+870	sightseeing tour	wycieczka ze zwiedzaniem	BG2_U4_L3	Słownictwo ogólne	0
+871	afford	pozwolić sobie / stać kogoś na coś	BG2_U4_L4	Słownictwo ogólne	0
+872	be off	mieć wolne	BG2_U4_L4	Słownictwo ogólne	0
+873	fall ill	zachorować	BG2_U4_L4	Słownictwo ogólne	0
+874	garlic sauce	sos czosnkowy	BG2_U4_L4	Słownictwo ogólne	0
+875	ingredient	składnik	BG2_U4_L4	Słownictwo ogólne	0
+876	in advance	z góry	BG2_U4_L4	Słownictwo ogólne	0
+877	naughty	niegrzeczny	BG2_U4_L4	Słownictwo ogólne	0
+878	redecorate	remontować	BG2_U4_L4	Słownictwo ogólne	0
+879	responsibility	obowiązek	BG2_U4_L4	Słownictwo ogólne	0
+880	sight	widok	BG2_U4_L4	Słownictwo ogólne	0
+881	What a shame	Jaka szkoda!	BG2_U4_L4	Słownictwo ogólne	0
+882	whine	narzekać	BG2_U4_L4	Słownictwo ogólne	0
+883	You're kidding me	Chyba żartujesz!	BG2_U4_L4	Słownictwo ogólne	0
+884	baseball	baseball	BG2_U5_L1	Sport	0
+885	basketball	koszykówka	BG2_U5_L1	Sport	0
+886	bowling	kręgle	BG2_U5_L1	Sport	0
+887	chess	szachy	BG2_U5_L1	Sport	0
+888	climb	wspinać się	BG2_U5_L1	Sport	0
+889	climbing	wspinaczka	BG2_U5_L1	Sport	0
+890	cycle	jeździć na rowerze	BG2_U5_L1	Sport	0
+891	cycling	jazda na rowerze	BG2_U5_L1	Sport	0
+892	dive	nurkować	BG2_U5_L1	Sport	0
+893	diving	nurkowanie	BG2_U5_L1	Sport	0
+894	fish	wędkować	BG2_U5_L1	Sport	0
+895	fishing	wędkowanie	BG2_U5_L1	Sport	0
+896	football	piłka nożna	BG2_U5_L1	Sport	0
+897	gymnastics	gimnastyka	BG2_U5_L1	Sport	0
+898	ride a horse	jeździć konno	BG2_U5_L1	Sport	0
+899	horse riding	jazda konna	BG2_U5_L1	Sport	0
+900	motor racing	wyścigi samochodowe	BG2_U5_L1	Sport	0
+901	ride a bike	jeździć na rowerze	BG2_U5_L1	Sport	0
+902	ride a bike	jazda na rowerze	BG2_U5_L1	Sport	0
+903	roller-skate	jeździć na rolkach	BG2_U5_L1	Sport	0
+904	roller-skating	jazda na rolkach	BG2_U5_L1	Sport	0
+905	run	biegać	BG2_U5_L1	Sport	0
+906	running	bieganie	BG2_U5_L1	Sport	0
+907	sail	żeglować	BG2_U5_L1	Sport	0
+908	sailing	żeglowanie	BG2_U5_L1	Sport	0
+909	skateboard	jeździć na deskorolce	BG2_U5_L1	Sport	0
+910	skateboarding	jazda na deskorolce	BG2_U5_L1	Sport	0
+911	skate	jeździć na łyżwach	BG2_U5_L1	Sport	0
+912	skating	łyżwiarstwo	BG2_U5_L1	Sport	0
+913	ski	jeździć na nartach	BG2_U5_L1	Sport	0
+914	skiing	jazda na nartach	BG2_U5_L1	Sport	0
+915	table-tennis	tenis stołowy	BG2_U5_L1	Sport	0
+916	volleyball	siatkówka	BG2_U5_L1	Sport	0
+917	yoga	joga	BG2_U5_L1	Sport	0
+918	boring	nudny	BG2_U5_L1	Słownictwo ogólne	0
+919	hard	ciężki, trudny	BG2_U5_L1	Słownictwo ogólne	0
+920	I can’t wait	Nie mogę się doczekać.	BG2_U5_L1	Słownictwo ogólne	0
+921	let's play	Zagrajmy	BG2_U5_L1	Słownictwo ogólne	0
+922	quite	całkiem / dość	BG2_U5_L1	Słownictwo ogólne	0
+923	slow	wolny	BG2_U5_L1	Słownictwo ogólne	0
+924	tired	zmęczony	BG2_U5_L1	Słownictwo ogólne	0
+925	why don't you	A może ...?	BG2_U5_L1	Słownictwo ogólne	0
+926	pool	bilard	BG2_U5_L2	Hobby	0
+927	collect stamps	zbierać znaczki	BG2_U5_L2	Hobby	0
+928	dance	tańczyć	BG2_U5_L2	Hobby	0
+929	darts	rzutki	BG2_U5_L2	Hobby	0
+930	do crosswords	rozwiązywać krzyżówki	BG2_U5_L2	Hobby	0
+931	do the shopping	robić zakupy	BG2_U5_L2	Hobby	0
+932	do the gardening	pracować w ogrodzie	BG2_U5_L2	Hobby	0
+933	game of cards	gra w karty	BG2_U5_L2	Hobby	0
+934	go to the cinema	iść do kina	BG2_U5_L2	Hobby	0
+935	go to a concert	iść na koncert	BG2_U5_L2	Hobby	0
+936	go to the gym	iść na siłownię	BG2_U5_L2	Hobby	0
+937	knit	robić na drutach	BG2_U5_L2	Hobby	0
+938	knitting	robienie na drutach	BG2_U5_L2	Hobby	0
+939	learn languages	uczyć się języków obcych	BG2_U5_L2	Hobby	0
+940	listen to music	słuchać muzyki	BG2_U5_L2	Hobby	0
+941	listen to the radio	słuchać radia			0
+942	meet friends	spotykać się z przyjaciółmi	BG2_U5_L2	Hobby	0
+943	paint	malować	BG2_U5_L2	Hobby	0
+944	play computer games	grać w gry komputerowe	BG2_U5_L2	Hobby	0
+945	play the guitar	grać na gitarze	BG2_U5_L2	Hobby	0
+946	read a book	czytać książkę	BG2_U5_L2	Hobby	0
+947	surf the net	surfować po Internecie	BG2_U5_L2	Hobby	0
+948	take photos	robić zdjęcia	BG2_U5_L2	Hobby	0
+949	watch tv	oglądać telewizję	BG2_U5_L2	Hobby	0
+950	accept	zaakceptować	BG2_U5_L2	Słownictwo ogólne	0
+951	among	pośród	BG2_U5_L2	Słownictwo ogólne	0
+952	gym	siłownia	BG2_U5_L2	Słownictwo ogólne	0
+953	lose	przegrać	BG2_U5_L2	Słownictwo ogólne	0
+954	obese	otyły	BG2_U5_L2	Słownictwo ogólne	0
+955	quiet	cichy, spokojny	BG2_U5_L2	Słownictwo ogólne	0
+956	shopaholic	zakupoholik, zakupoholiczka	BG2_U5_L2	Słownictwo ogólne	0
+957	tiring	męczący	BG2_U5_L2	Słownictwo ogólne	0
+958	what else	co jeszcze ... ?	BG2_U5_L2	Słownictwo ogólne	0
+959	skating	łyżwiarstwo	BG2_U5_L3	Sporty zimowe	0
+960	ice hockey	Hokej na lodzie	BG2_U5_L3	Sporty zimowe	0
+961	skiing	jazda na nartach	BG2_U5_L3	Sporty zimowe	0
+962	ski-jumping	skoki narciarskie	BG2_U5_L3	Sporty zimowe	0
+963	snowboarding	jazda na snowboardzie	BG2_U5_L3	Sporty zimowe	0
+964	archery	łucznictwo	BG2_U5_L3	Sporty letnie	0
+965	athletics	lekkoatletyka	BG2_U5_L3	Sporty letnie	0
+966	beach ball	piłka plażowa	BG2_U5_L3	Sporty letnie	0
+967	fencing	szermierka	BG2_U5_L3	Sporty letnie	0
+968	field hockey	hokej	BG2_U5_L3	Sporty letnie	0
+969	martial arts	sztuki walki	BG2_U5_L3	Sporty letnie	0
+970	rowing	wioślarstwo	BG2_U5_L3	Sporty letnie	0
+971	scuba diving	nurkowanie głębinowe	BG2_U5_L3	Sporty letnie	0
+972	bungee-jumping	skakanie na bungee	BG2_U5_L3	Sporty ekstremalne	0
+973	hang-gliding	lotniarstwo	BG2_U5_L3	Sporty ekstremalne	0
+974	kite-surfing	pływanie na desce z latawcem	BG2_U5_L3	Sporty ekstremalne	0
+975	parachuting	skakanie ze spadochronem	BG2_U5_L3	Sporty ekstremalne	0
+976	sky-diving	akrobacje spadochronowe	BG2_U5_L3	Sporty ekstremalne	0
+977	adrenaline	adrenalina	BG2_U5_L3	Słownictwo ogólne	0
+978	adventure	przygoda	BG2_U5_L3	Słownictwo ogólne	0
+979	be afraid of somethings	obawiać się czegoś	BG2_U5_L3	Słownictwo ogólne	0
+980	risk	ryzyko,  ryzykować	BG2_U5_L3	Słownictwo ogólne	0
+981	search	szukać	BG2_U5_L3	Słownictwo ogólne	0
+982	such as	taki jak	BG2_U5_L3	Słownictwo ogólne	0
+983	blogging	pisanie bloga	BG2_U5_L4	Rekreacja	0
+984	carpentry	stolarstwo	BG2_U5_L4	Rekreacja	0
+985	compose music	komponować muzykę	BG2_U5_L4	Rekreacja	0
+986	dance samba	tańczyć sambę	BG2_U5_L4	Rekreacja	0
+987	history	historia	BG2_U5_L4	Rekreacja	0
+988	interior design	dekorowanie wnętrz	BG2_U5_L4	Rekreacja	0
+989	jewellery making	robienie biżuterii	BG2_U5_L4	Rekreacja	0
+990	play the guitar	grać na gitarze	BG2_U5_L4	Rekreacja	0
+991	politics	polityka	BG2_U5_L4	Rekreacja	0
+992	scrapbooking	wyklejanie w albumie	BG2_U5_L4	Rekreacja	0
+993	travelling	podróżowanie	BG2_U5_L4	Rekreacja	0
+994	volunteering at an animal shelter	pełnienie wolontariatu w schroniksu dla zwierząt	BG2_U5_L4	Rekreacja	0
+995	wine tasting	testowanie wina	BG2_U5_L4	Rekreacja	0
+996	write poems	pisać wiersze	BG2_U5_L4	Rekreacja	0
+997	competition	rywalizacja, zawody	BG2_U5_L4	Słownictwo ogólne	0
+998	creative	twórczy, kreatywny	BG2_U5_L4	Słownictwo ogólne	0
+999	create	tworzyć	BG2_U5_L4	Słownictwo ogólne	0
+1000	design	projektować	BG2_U5_L4	Słownictwo ogólne	0
+1001	do it yourself	majsterkować	BG2_U5_L4	Słownictwo ogólne	0
+1002	imagination	wyobraźnia	BG2_U5_L4	Słownictwo ogólne	0
+1003	Prime Minister	premier	BG2_U5_L4	Słownictwo ogólne	0
+1004	the news	wiadomości	BG2_U5_L4	Słownictwo ogólne	0
+1005					0
+1006					0
+1007					

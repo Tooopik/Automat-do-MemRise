@@ -21,7 +21,7 @@ def get_words_list():  # Funkcja do wygenerowania listy angielskich słówek
                     line[1][:-1].replace("'", '').replace('?', '').replace('.', '').replace(' ', '_').lower())
             else:
                 wordsList.append(line[1].replace(
-                    "'", '').replace('?', '').replace('.', '').replace(' ', '_').lower())
+                    "'", '').replace('?', '').replace('.', '').replace(' ', '_').replace('-', '_').lower())
     return wordsList
 
 
@@ -37,6 +37,7 @@ def words_to_download_audio():  # Funkcja sprawdza do których słowek nie ma pl
     return wordsToDown
 
 
+wordErrorEn = []
 wordError = []
 for word in words_to_download_audio():
     time.sleep(1)
@@ -45,11 +46,27 @@ for word in words_to_download_audio():
             'https://www.diki.pl/images-common/en/mp3/'+word+'.mp3', '.\\audio\\'+word+'.mp3')
 
     except:
-        wordError.append(word)
+        wordErrorEn.append(word)
         print(f'ERROR: {word}')
     else:
         print(f'Download - OK: {word}')
 
+if len(wordErrorEn) > 0:
+    for word in wordErrorEn:
+        time.sleep(1)
+        try:
+            urllib.request.urlretrieve(
+                'https://www.diki.pl/images-common/en-ame/mp3/'+word+'.mp3', '.\\audio\\'+word+'.mp3')
+
+        except:
+            wordError.append(word)
+            print(f'ERROR: {word}')
+        else:
+            print(f'Download - OK: {word}')
+
 if len(wordError) > 0:
     print(f'Błędy przy pobieraniu: {len(wordError)} słów')
-    print(wordError)
+    print("="*50)
+    for word in wordError:
+        print(word)
+    print("="*50)
