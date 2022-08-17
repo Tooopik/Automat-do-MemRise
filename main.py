@@ -4,7 +4,7 @@ import urllib.request
 
 
 def read_data():  # Funkcja do odczytu plików .tsv
-    with open('input\Słówka - Arkusz1.tsv', 'r', encoding='UTF-8') as file:
+    with open('input\Słówka - Slowka.tsv', 'r', encoding='UTF-8') as file:
         words = file.read().splitlines()
     convertData = []
     for data in words[1:]:
@@ -67,6 +67,8 @@ if len(wordErrorEn) > 0:
 if len(wordError) > 0:
     print(f'Błędy przy pobieraniu: {len(wordError)} słów')
     print("="*50)
-    for word in wordError:
-        print(word)
+    with open('errors/error_words.txt', 'w') as file:
+        for word in wordError:
+            print(word)
+            file.write(word + '\n')
     print("="*50)

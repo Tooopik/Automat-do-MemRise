@@ -1,2 +1,4 @@
+*.tsv
 *.mp3
 *.code-workspace
+error_words.txt
